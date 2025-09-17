@@ -1,0 +1,3356 @@
+[
+  {
+    "Track ID": "DV01",
+    "English Name": "Vimana Venkateswara Swamy",
+    "Telugu Name": "విమాన వేంకటేశ్వర స్వామి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV01"
+  },
+  {
+    "Track ID": "DV02",
+    "English Name": "Mahalayapaksham Visistatha",
+    "Telugu Name": "మహాలయ పక్షం విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV02"
+  },
+  {
+    "Track ID": "DV03",
+    "English Name": "Kalikaalam Lo Karma Phalitham",
+    "Telugu Name": "కలికాలంలో కర్మ ఫలితం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV03"
+  },
+  {
+    "Track ID": "DV04",
+    "English Name": "Paadaseva Mahathyam",
+    "Telugu Name": "పాదసేవ మహాత్మ్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV04"
+  },
+  {
+    "Track ID": "DV05",
+    "English Name": "Dikkulu & Dikdevathalu - 1",
+    "Telugu Name": "దిక్కులు & దిగ్దేవతలు - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV05"
+  },
+  {
+    "Track ID": "DV06",
+    "English Name": "Dikkulu & Dikdevathalu - 2",
+    "Telugu Name": "దిక్కులు & దిగ్దేవతలు - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV06"
+  },
+  {
+    "Track ID": "DV07",
+    "English Name": "Lakshmi Devi Sthanamulu",
+    "Telugu Name": "లక్ష్మీదేవి స్థానములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV07"
+  },
+  {
+    "Track ID": "DV08",
+    "English Name": "Pancha Paathakamulu",
+    "Telugu Name": "పంచ పాతకములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV08"
+  },
+  {
+    "Track ID": "DV09",
+    "English Name": "Kaalahastheeswara Sathakam",
+    "Telugu Name": "కాళహస్తీశ్వర శతకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV09"
+  },
+  {
+    "Track ID": "DV10",
+    "English Name": "Deeparadhana Vidhi",
+    "Telugu Name": "దీపారాధన విధి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV10"
+  },
+  {
+    "Track ID": "DV11",
+    "English Name": "Manishi Saadhinchavalasindi Emiti",
+    "Telugu Name": "మనిషి సాధించవలసింది ఏమిటి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV11"
+  },
+  {
+    "Track ID": "DV12",
+    "English Name": "Navagraha Pradhaanyatha",
+    "Telugu Name": "నవగ్రహ ప్రాధాన్యత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV12"
+  },
+  {
+    "Track ID": "DV13",
+    "English Name": "Bhayamulu",
+    "Telugu Name": "భయములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV13"
+  },
+  {
+    "Track ID": "DV14",
+    "English Name": "Karadarshanam",
+    "Telugu Name": "కర దర్శనము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV14"
+  },
+  {
+    "Track ID": "DV15",
+    "English Name": "Mahalaya Tarpanam",
+    "Telugu Name": "మహాలయ తర్పణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV15"
+  },
+  {
+    "Track ID": "DV16",
+    "English Name": "Adhika Maasam",
+    "Telugu Name": "అధిక మాసం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV16"
+  },
+  {
+    "Track ID": "DV17",
+    "English Name": "Significance Of Number 9",
+    "Telugu Name": "9 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV17"
+  },
+  {
+    "Track ID": "DV18",
+    "English Name": "Parama Siva Panchamukhas",
+    "Telugu Name": "పరమశివుని పంచ ముఖాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV18"
+  },
+  {
+    "Track ID": "DV19",
+    "English Name": "Sapthapadhi",
+    "Telugu Name": "వివాహంలో 7 అడుగులు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV19"
+  },
+  {
+    "Track ID": "DV20",
+    "English Name": "Argyapraadana Visishtata",
+    "Telugu Name": "అర్ఘ్య ప్రదాన విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV20"
+  },
+  {
+    "Track ID": "DV21",
+    "English Name": "Vidura Neethi",
+    "Telugu Name": "విదుర నీతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV21"
+  },
+  {
+    "Track ID": "DV22",
+    "English Name": "Learning From Jeevaraasulu",
+    "Telugu Name": "జీవరాసులనుంచి విజ్ఞానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV22"
+  },
+  {
+    "Track ID": "DV23",
+    "English Name": "Number 3 Visishtata",
+    "Telugu Name": "3 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV23"
+  },
+  {
+    "Track ID": "DV24",
+    "English Name": "Number 4 Visishtata",
+    "Telugu Name": "4 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV24"
+  },
+  {
+    "Track ID": "DV25",
+    "English Name": "Ekadasha Visishtata",
+    "Telugu Name": "ఏకాదశి విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV25"
+  },
+  {
+    "Track ID": "DV26",
+    "English Name": "Number 5 Visishtata",
+    "Telugu Name": "5 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV26"
+  },
+  {
+    "Track ID": "DV27",
+    "English Name": "Number 6 Visishtata",
+    "Telugu Name": "6 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV27"
+  },
+  {
+    "Track ID": "DV28",
+    "English Name": "Number 7 Visishtata",
+    "Telugu Name": "7 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV28"
+  },
+  {
+    "Track ID": "DV29",
+    "English Name": "Number 8 Visishtata",
+    "Telugu Name": "8 సంఖ్య విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV29"
+  },
+  {
+    "Track ID": "DV30",
+    "English Name": "Shashta Graha Kootami",
+    "Telugu Name": "షష్ట గ్రహ కూటమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV30"
+  },
+  {
+    "Track ID": "DV31",
+    "English Name": "Divya Vrukshaalu",
+    "Telugu Name": "దివ్య వ్రృక్షాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV31"
+  },
+  {
+    "Track ID": "DV32",
+    "English Name": "Maranam Gurunchi",
+    "Telugu Name": "మరణం గురించి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV32"
+  },
+  {
+    "Track ID": "DV33",
+    "English Name": "Vivaaham",
+    "Telugu Name": "వివాహం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV33"
+  },
+  {
+    "Track ID": "DV34",
+    "English Name": "Sankashta Hara Chaturdi",
+    "Telugu Name": "సంకష్ట హర చతుర్ధి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV34"
+  },
+  {
+    "Track ID": "DV35",
+    "English Name": "About Pooja",
+    "Telugu Name": "పూజ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV35"
+  },
+  {
+    "Track ID": "DV36",
+    "English Name": "Lakshmi",
+    "Telugu Name": "లక్ష్మి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV36"
+  },
+  {
+    "Track ID": "DV37",
+    "English Name": "Sanatana Dharmamu Lo Sthree Swetcha",
+    "Telugu Name": "సనాతన ధర్మంలో స్త్రీ స్వేచ్ఛ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV37"
+  },
+  {
+    "Track ID": "DV38",
+    "English Name": "Ayurveda Importance",
+    "Telugu Name": "ఆయుర్వేదం ప్రత్యేకత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV38"
+  },
+  {
+    "Track ID": "DV39",
+    "English Name": "Kalikaalam Lo Rakshasa Pravrutthi",
+    "Telugu Name": "కలికాలంలో రాక్షస ప్రవృత్తి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV39"
+  },
+  {
+    "Track ID": "DV40",
+    "English Name": "How To Talk",
+    "Telugu Name": "ఎలా మాట్లాడాలి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV40"
+  },
+  {
+    "Track ID": "DV41",
+    "English Name": "Karmanyekam Manasyekam",
+    "Telugu Name": "కర్మణ్యేకం మనస్యేకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV41"
+  },
+  {
+    "Track ID": "DV42",
+    "English Name": "Pranaayaam",
+    "Telugu Name": "ప్రాణాయామం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV42"
+  },
+  {
+    "Track ID": "DV43",
+    "English Name": "About Anger - Kopam",
+    "Telugu Name": "కోపం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV43"
+  },
+  {
+    "Track ID": "DV44",
+    "English Name": "Navaraatri Viseshaalu 1",
+    "Telugu Name": "నవరాత్రి విశేషాలు 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV44"
+  },
+  {
+    "Track ID": "DV45",
+    "English Name": "Navaraatri Viseshaalu 2",
+    "Telugu Name": "నవరాత్రి విశేషాలు 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV45"
+  },
+  {
+    "Track ID": "DV46",
+    "English Name": "Saran Navaraatri - Day 1 - Shailaputri Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 1 - శైలపుత్రి అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV46"
+  },
+  {
+    "Track ID": "DV47",
+    "English Name": "Saran Navaraatri - Day 2 - Baalatripurasundari",
+    "Telugu Name": "శరన్నవరాత్రి 2 - బాలా త్రిపుర సుందరి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV47"
+  },
+  {
+    "Track ID": "DV48",
+    "English Name": "Saran Navaraatri - Day 3 - Gayathri Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 3 - గాయత్రీ అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV48"
+  },
+  {
+    "Track ID": "DV49",
+    "English Name": "Saran Navaraatri - Day 4 - Annapurna Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 4 - అన్నపూర్ణ అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV49"
+  },
+  {
+    "Track ID": "DV50",
+    "English Name": "Saran Navaraatri - Day 5 - Lalitha Devi Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 5 - లలితా దేవి అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV50"
+  },
+  {
+    "Track ID": "DV51",
+    "English Name": "Saran Navaraatri - Day 6 - Katyayani Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 6 - కాత్యయని అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV51"
+  },
+  {
+    "Track ID": "DV52",
+    "English Name": "Saran Navaraatri - Day 7 - Kaalarathri Mata Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 7 - కాళ రాత్రి మాత అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV52"
+  },
+  {
+    "Track ID": "DV53",
+    "English Name": "Saran Navaraatri - Day 8 - Maha Gowri Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 8 - మహా గౌరి అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV53"
+  },
+  {
+    "Track ID": "DV54",
+    "English Name": "Saran Navaraatri - Day 9 - Siddhi Dhatri Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 9 - సిద్ధి ధాత్రి అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV54"
+  },
+  {
+    "Track ID": "DV55",
+    "English Name": "Saran Navaraatri - Day 10 - Rajarajeswari Avatharam",
+    "Telugu Name": "శరన్నవరాత్రి 10 - రాజేశ్వరి అవతారం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV55"
+  },
+  {
+    "Track ID": "DV56",
+    "English Name": "Lakshya Saadhanalo Dhruthi",
+    "Telugu Name": "లక్ష్యసాధనలో ధ్రుతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV56"
+  },
+  {
+    "Track ID": "DV57",
+    "English Name": "Lakshya Saadhanalo Drushti",
+    "Telugu Name": "లక్ష్యసాధనలో ద్రుష్టి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV57"
+  },
+  {
+    "Track ID": "DV58",
+    "English Name": "Lakshya Saadhanalo Mathi",
+    "Telugu Name": "లక్ష్యసాధనలో మతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV58"
+  },
+  {
+    "Track ID": "DV59",
+    "English Name": "Lakshya Saadhanalo Daakshyam",
+    "Telugu Name": "లక్ష్యసాధనలో దాష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV59"
+  },
+  {
+    "Track ID": "DV60",
+    "English Name": "Dharmayapthi Sadaassu",
+    "Telugu Name": "ధర్మవ్యాప్తి సదస్సు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV60"
+  },
+  {
+    "Track ID": "DV61",
+    "English Name": "Dharmanustaanam Vidhi",
+    "Telugu Name": "ధర్మానుష్టానం విధి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV61"
+  },
+  {
+    "Track ID": "DV62",
+    "English Name": "Kastum Gurinchi",
+    "Telugu Name": "కష్టం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV62"
+  },
+  {
+    "Track ID": "DV63",
+    "English Name": "Manushya Janma Visistita",
+    "Telugu Name": "మనుష్య జన్మ విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV63"
+  },
+  {
+    "Track ID": "DV64",
+    "English Name": "Vivahaniki Requirements",
+    "Telugu Name": "వివాహానికి కావాల్సినవి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV64"
+  },
+  {
+    "Track ID": "DV65",
+    "English Name": "Early Morning Wakeup",
+    "Telugu Name": "ప్రాతఃకాలం మేలుకోవడం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV65"
+  },
+  {
+    "Track ID": "DV66",
+    "English Name": "Sneha Dharmum",
+    "Telugu Name": "స్నేహ ధర్మం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV66"
+  },
+  {
+    "Track ID": "DV67",
+    "English Name": "Sadhana Chatustayum",
+    "Telugu Name": "సాధన చతుష్టయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV67"
+  },
+  {
+    "Track ID": "DV68",
+    "English Name": "Neeru Pradhanyata",
+    "Telugu Name": "నీరు ప్రాధాన్యత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV68"
+  },
+  {
+    "Track ID": "DV69",
+    "English Name": "Devudu Okkade",
+    "Telugu Name": "దేవుడు ఒక్కడే",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV69"
+  },
+  {
+    "Track ID": "DV70",
+    "English Name": "Sivakesavulu Abhedhum",
+    "Telugu Name": "శివకేశవుల అభేదం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV70"
+  },
+  {
+    "Track ID": "DV71",
+    "English Name": "Eluka Vahanum",
+    "Telugu Name": "ఎలుక వాహనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV71"
+  },
+  {
+    "Track ID": "DV72",
+    "English Name": "Hamsa Vahanum",
+    "Telugu Name": "హంస వాహనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV72"
+  },
+  {
+    "Track ID": "DV73",
+    "English Name": "House / Illu",
+    "Telugu Name": "ఇల్లు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV73"
+  },
+  {
+    "Track ID": "DV74",
+    "English Name": "Nemali Vahanum",
+    "Telugu Name": "నెమలి వాహనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV74"
+  },
+  {
+    "Track ID": "DV75",
+    "English Name": "Atma Bandhuvulu",
+    "Telugu Name": "ఆత్మ బంధువులు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV75"
+  },
+  {
+    "Track ID": "DV76",
+    "English Name": "Kartika Puranum-1",
+    "Telugu Name": "కార్తీక పురాణం-1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV76"
+  },
+  {
+    "Track ID": "DV77",
+    "English Name": "Kartika Puranum-2",
+    "Telugu Name": "కార్తీక పురాణం-2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV77"
+  },
+  {
+    "Track ID": "DV78",
+    "English Name": "Kartika Puranum-3",
+    "Telugu Name": "కార్తీక పురాణం-3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV78"
+  },
+  {
+    "Track ID": "DV79",
+    "English Name": "Kartika Puranum-4",
+    "Telugu Name": "కార్తీక పురాణం-4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV79"
+  },
+  {
+    "Track ID": "DV80",
+    "English Name": "Kartika Puranum-5",
+    "Telugu Name": "కార్తీక పురాణం-5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV80"
+  },
+  {
+    "Track ID": "DV81",
+    "English Name": "Kartika Puranum-6",
+    "Telugu Name": "కార్తీక పురాణం-6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV81"
+  },
+  {
+    "Track ID": "DV82",
+    "English Name": "Kartika Puranum-7",
+    "Telugu Name": "కార్తీక పురాణం-7",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV82"
+  },
+  {
+    "Track ID": "DV83",
+    "English Name": "Kartika Puranum-8",
+    "Telugu Name": "కార్తీక పురాణం-8",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV83"
+  },
+  {
+    "Track ID": "DV84",
+    "English Name": "Kartika Puranum-9",
+    "Telugu Name": "కార్తీక పురాణం-9",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV84"
+  },
+  {
+    "Track ID": "DV85",
+    "English Name": "Kartika Puranum-10",
+    "Telugu Name": "కార్తీక పురాణం-10",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV85"
+  },
+  {
+    "Track ID": "DV86",
+    "English Name": "Kartika Puranum-11",
+    "Telugu Name": "కార్తీక పురాణం-11",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV86"
+  },
+  {
+    "Track ID": "DV87",
+    "English Name": "Kartika Puranum-12",
+    "Telugu Name": "కార్తీక పురాణం-12",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV87"
+  },
+  {
+    "Track ID": "DV88",
+    "English Name": "Kartika Puranum-13",
+    "Telugu Name": "కార్తీక పురాణం-13",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV88"
+  },
+  {
+    "Track ID": "DV89",
+    "English Name": "Kartika Puranum-14",
+    "Telugu Name": "కార్తీక పురాణం-14",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV89"
+  },
+  {
+    "Track ID": "DV90",
+    "English Name": "Kartika Puranum-15",
+    "Telugu Name": "కార్తీక పురాణం-15",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV90"
+  },
+  {
+    "Track ID": "DV91",
+    "English Name": "Kartika Puranum-16",
+    "Telugu Name": "కార్తీక పురాణం-16",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV91"
+  },
+  {
+    "Track ID": "DV92",
+    "English Name": "Kartika Puranum-17",
+    "Telugu Name": "కార్తీక పురాణం-17",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV92"
+  },
+  {
+    "Track ID": "DV93",
+    "English Name": "Kartika Puranum-18",
+    "Telugu Name": "కార్తీక పురాణం-18",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV93"
+  },
+  {
+    "Track ID": "DV94",
+    "English Name": "Kartika Puranum-19",
+    "Telugu Name": "కార్తీక పురాణం-19",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV94"
+  },
+  {
+    "Track ID": "DV95",
+    "English Name": "Kartika Puranum-20",
+    "Telugu Name": "కార్తీక పురాణం-20",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV95"
+  },
+  {
+    "Track ID": "DV96",
+    "English Name": "Kartika Puranum-21",
+    "Telugu Name": "కార్తీక పురాణం-21",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV96"
+  },
+  {
+    "Track ID": "DV97",
+    "English Name": "Kartika Puranum-22",
+    "Telugu Name": "కార్తీక పురాణం-22",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV97"
+  },
+  {
+    "Track ID": "DV98",
+    "English Name": "Kartika Puranum-23",
+    "Telugu Name": "కార్తీక పురాణం-23",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV98"
+  },
+  {
+    "Track ID": "DV99",
+    "English Name": "Kartika Puranum-24",
+    "Telugu Name": "కార్తీక పురాణం-24",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV99"
+  },
+  {
+    "Track ID": "DV100",
+    "English Name": "Kartika Puranum-25",
+    "Telugu Name": "కార్తీక పురాణం-25",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV100"
+  },
+  {
+    "Track ID": "DV101",
+    "English Name": "Kartika Puranum-26",
+    "Telugu Name": "కార్తీక పురాణం-26",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV101"
+  },
+  {
+    "Track ID": "DV102",
+    "English Name": "Kartika Puranum-27",
+    "Telugu Name": "కార్తీక పురాణం-27",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV102"
+  },
+  {
+    "Track ID": "DV103",
+    "English Name": "Kartika Puranum-28",
+    "Telugu Name": "కార్తీక పురాణం-28",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV103"
+  },
+  {
+    "Track ID": "DV104",
+    "English Name": "Kartika Puranum-29",
+    "Telugu Name": "కార్తీక పురాణం-29",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV104"
+  },
+  {
+    "Track ID": "DV105",
+    "English Name": "Kartika Puranum-30",
+    "Telugu Name": "కార్తీక పురాణం-30",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV105"
+  },
+  {
+    "Track ID": "DV106",
+    "English Name": "Dhanurmasa Visistatha-1",
+    "Telugu Name": "ధనుర్మాస విశిష్టత 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV106"
+  },
+  {
+    "Track ID": "DV107",
+    "English Name": "Dhanurmasa Visistatha-2",
+    "Telugu Name": "ధనుర్మాస విశిష్టత 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV107"
+  },
+  {
+    "Track ID": "DV108",
+    "English Name": "Kasta Sukhalu",
+    "Telugu Name": "కష్ట సుఖాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV108"
+  },
+  {
+    "Track ID": "DV109",
+    "English Name": "Dhurjati Sloka Vivarana",
+    "Telugu Name": "ధూర్జటి శ్లోక వివరణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV109"
+  },
+  {
+    "Track ID": "DV110",
+    "English Name": "Hanuma Sindhurum",
+    "Telugu Name": "హనుమ సింధూరం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV110"
+  },
+  {
+    "Track ID": "DV111",
+    "English Name": "Subrahmanya Sasti",
+    "Telugu Name": "సుబ్రహ్మణ్య షష్టి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV111"
+  },
+  {
+    "Track ID": "DV112",
+    "English Name": "Anna Prasana",
+    "Telugu Name": "అన్న ప్రాశన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV112"
+  },
+  {
+    "Track ID": "DV113",
+    "English Name": "Nava Vidha Bhakti Margalu",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV113"
+  },
+  {
+    "Track ID": "DV114",
+    "English Name": "Nava Vidha Bhakti - Sravanum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - శ్రవణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV114"
+  },
+  {
+    "Track ID": "DV115",
+    "English Name": "Nava Vidha Bhakti - Keerthanum",
+    "Telugu Name": "నవవిధ భక్తి - కీర్తనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV115"
+  },
+  {
+    "Track ID": "DV116",
+    "English Name": "Nava Vidha Bhakti - Vishnu Smaranum",
+    "Telugu Name": "నవవిధ భక్తి - విష్ణు స్మరణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV116"
+  },
+  {
+    "Track ID": "DV117",
+    "English Name": "Nava Vidha Bhakti - Pada Sevanum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - పాద సేవనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV117"
+  },
+  {
+    "Track ID": "DV118",
+    "English Name": "Nava Vidha Bhakti - Archanum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - అర్చనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV118"
+  },
+  {
+    "Track ID": "DV119",
+    "English Name": "Nava Vidha Bhakti - Vandanum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - వందనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV119"
+  },
+  {
+    "Track ID": "DV120",
+    "English Name": "Nava Vidha Bhakti - Sankyum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - సఖ్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV120"
+  },
+  {
+    "Track ID": "DV121",
+    "English Name": "Nava Vidha Bhakti - Dasyum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - దాస్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV121"
+  },
+  {
+    "Track ID": "DV122",
+    "English Name": "Nava Vidha Bhakti - Atma Nivedanum",
+    "Telugu Name": "నవ విధ భక్తి మార్గాలు - ఆత్మ నివేదనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV122"
+  },
+  {
+    "Track ID": "DV123",
+    "English Name": "Special Talk",
+    "Telugu Name": "ప్రత్యేక సందేశం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV123"
+  },
+  {
+    "Track ID": "DV124",
+    "English Name": "Manava Janma Veduru Katte",
+    "Telugu Name": "మానవజన్మ వెదురు కట్టె",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV124"
+  },
+  {
+    "Track ID": "DV125",
+    "English Name": "Inti Perlu Gotralu",
+    "Telugu Name": "ఇంటి పేర్లు గోత్రాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV125"
+  },
+  {
+    "Track ID": "DV126",
+    "English Name": "Shodasa Samskaralu",
+    "Telugu Name": "షోడస సంస్కారాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV126"
+  },
+  {
+    "Track ID": "DV127",
+    "English Name": "Shodasa Samskaralu-Avahanum",
+    "Telugu Name": "షోడస సంస్కారాలు - ఆవాహనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV127"
+  },
+  {
+    "Track ID": "DV128",
+    "English Name": "Shodasa Samskaralu-Asanum",
+    "Telugu Name": "షోడస సంస్కారాలు - ఆసనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV128"
+  },
+  {
+    "Track ID": "DV129",
+    "English Name": "Shodasa Samskaralu-Padyam",
+    "Telugu Name": "షోడస సంస్కారాలు - పాద్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV129"
+  },
+  {
+    "Track ID": "DV130",
+    "English Name": "Shodasa Samskaralu-Argyam Achamanum",
+    "Telugu Name": "షోడస సంస్కారాలు - అర్ఘ్యం అర్చనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV130"
+  },
+  {
+    "Track ID": "DV131",
+    "English Name": "Shodasa Samskaralu-Snanum",
+    "Telugu Name": "షోడస సంస్కారాలు - స్నానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV131"
+  },
+  {
+    "Track ID": "DV132",
+    "English Name": "Kanchi Paramacharya Aradhana",
+    "Telugu Name": "కంచి పరమాచార్య ఆరాధన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV132"
+  },
+  {
+    "Track ID": "DV133",
+    "English Name": "Shodasa Samskaralu-Vastrum",
+    "Telugu Name": "షోడస సంస్కారాలు - వస్త్రం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV133"
+  },
+  {
+    "Track ID": "DV134",
+    "English Name": "Shodasa Samskaralu-Yagnopaveetum",
+    "Telugu Name": "షోడస సంస్కారాలు - యజ్ఞోపవీతం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV134"
+  },
+  {
+    "Track ID": "DV135",
+    "English Name": "Bhogi",
+    "Telugu Name": "భోగి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV135"
+  },
+  {
+    "Track ID": "DV136",
+    "English Name": "Sankranti",
+    "Telugu Name": "సంక్రాంతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV136"
+  },
+  {
+    "Track ID": "DV137",
+    "English Name": "Kanuma",
+    "Telugu Name": "కనుమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV137"
+  },
+  {
+    "Track ID": "DV138",
+    "English Name": "Shodasa Samskaralu-Abharanum",
+    "Telugu Name": "షోడస సంస్కారాలు - ఆభరణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV138"
+  },
+  {
+    "Track ID": "DV139",
+    "English Name": "Shodasa Samskaralu-Gandhum",
+    "Telugu Name": "షోడస సంస్కారాలు - గంధం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV139"
+  },
+  {
+    "Track ID": "DV140",
+    "English Name": "Shodasa Samskaralu-Pushpam",
+    "Telugu Name": "షోడస సంస్కారాలు - పుష్పం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV140"
+  },
+  {
+    "Track ID": "DV141",
+    "English Name": "Shodasa Samskaralu-Dhupaum",
+    "Telugu Name": "షోడస సంస్కారాలు - ధూపం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV141"
+  },
+  {
+    "Track ID": "DV142",
+    "English Name": "Shodasa Samskaralu-Deepum",
+    "Telugu Name": "షోడస సంస్కారాలు - దీపం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV142"
+  },
+  {
+    "Track ID": "DV143",
+    "English Name": "Shodasa Samskaralu-Naivedyum",
+    "Telugu Name": "షోడస సంస్కారాలు - నైవేద్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV143"
+  },
+  {
+    "Track ID": "DV144",
+    "English Name": "Shodasa Samskaralu-Tambulum",
+    "Telugu Name": "షోడస సంస్కారాలు - తాంబూలం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV144"
+  },
+  {
+    "Track ID": "DV145",
+    "English Name": "Shodasa Samskaralu-Neerajanum",
+    "Telugu Name": "షోడస సంస్కారాలు - నీరాజనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV145"
+  },
+  {
+    "Track ID": "DV146",
+    "English Name": "Shodasa Samskaralu-Mantrapushpum",
+    "Telugu Name": "షోడస సంస్కారాలు - మంత్ర పుష్పం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV146"
+  },
+  {
+    "Track ID": "DV147",
+    "English Name": "Kala Mahima",
+    "Telugu Name": "కాల మహిమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV147"
+  },
+  {
+    "Track ID": "DV148",
+    "English Name": "Snana Visistatha",
+    "Telugu Name": "స్నాన విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV148"
+  },
+  {
+    "Track ID": "DV149",
+    "English Name": "Kutumbam",
+    "Telugu Name": "కుటుంబం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV149"
+  },
+  {
+    "Track ID": "DV150",
+    "English Name": "Putra Dharmam",
+    "Telugu Name": "పుత్ర ధర్మం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV150"
+  },
+  {
+    "Track ID": "DV151",
+    "English Name": "Sukha Dhukalu",
+    "Telugu Name": "సుఖ దుఃఖాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV151"
+  },
+  {
+    "Track ID": "DV152",
+    "English Name": "Devi Manusha Badhalu",
+    "Telugu Name": "దైవీ మానుష బాధలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV152"
+  },
+  {
+    "Track ID": "DV153",
+    "English Name": "Yuvata Patra",
+    "Telugu Name": "సనాతన ధర్మవ్యాప్తి లో యువత పాత్ర",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV153"
+  },
+  {
+    "Track ID": "DV154",
+    "English Name": "Vyasanum-Korikalu",
+    "Telugu Name": "వ్యసనం - కోరికలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV154"
+  },
+  {
+    "Track ID": "DV155",
+    "English Name": "Vyasanum-Krodhum",
+    "Telugu Name": "వ్యసనం - క్రోధం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV155"
+  },
+  {
+    "Track ID": "DV156",
+    "English Name": "Phalalu",
+    "Telugu Name": "ఫలాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV156"
+  },
+  {
+    "Track ID": "DV157",
+    "English Name": "Aputrasya Gatirnaasthi Meaning",
+    "Telugu Name": "అపుత్రస్య గతిర్నాస్తి యొక్క అర్ధం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV157"
+  },
+  {
+    "Track ID": "DV158",
+    "English Name": "Rudraksha",
+    "Telugu Name": "రుద్రాక్ష",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV158"
+  },
+  {
+    "Track ID": "DV159",
+    "English Name": "Nama Smarana Vysistum",
+    "Telugu Name": "నామస్మరణ వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV159"
+  },
+  {
+    "Track ID": "DV160",
+    "English Name": "Anna Dana Mahima",
+    "Telugu Name": "అన్నదాన మహిమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV160"
+  },
+  {
+    "Track ID": "DV161",
+    "English Name": "Garuda Puranum Chadavachaa",
+    "Telugu Name": "గరుడ పురాణం చదవచ్చా?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV161"
+  },
+  {
+    "Track ID": "DV162",
+    "English Name": "Nidra Vaisistyam",
+    "Telugu Name": "నిద్ర వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV162"
+  },
+  {
+    "Track ID": "DV163",
+    "English Name": "Sanatana Dharmum Lo Konni Amsalu",
+    "Telugu Name": "సనాతన ధర్మంలో కొన్ని అంశాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV163"
+  },
+  {
+    "Track ID": "DV164",
+    "English Name": "Kshama Gunum",
+    "Telugu Name": "క్షమా గుణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV164"
+  },
+  {
+    "Track ID": "DV165",
+    "English Name": "Maagha Puranam - 1",
+    "Telugu Name": "మాఘ పురాణం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV165"
+  },
+  {
+    "Track ID": "DV166",
+    "English Name": "Maagha Puranam - 2",
+    "Telugu Name": "మాఘ పురాణం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV166"
+  },
+  {
+    "Track ID": "DV167",
+    "English Name": "Maagha Puranam - 3",
+    "Telugu Name": "మాఘ పురాణం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV167"
+  },
+  {
+    "Track ID": "DV168",
+    "English Name": "Maagha Puranam - 4",
+    "Telugu Name": "మాఘ పురాణం - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV168"
+  },
+  {
+    "Track ID": "DV169",
+    "English Name": "Maagha Puranam - 5",
+    "Telugu Name": "మాఘ పురాణం - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV169"
+  },
+  {
+    "Track ID": "DV170",
+    "English Name": "Maagha Puranam - 6",
+    "Telugu Name": "మాఘ పురాణం - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV170"
+  },
+  {
+    "Track ID": "DV171",
+    "English Name": "Sowcham",
+    "Telugu Name": "శౌచం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV171"
+  },
+  {
+    "Track ID": "DV172",
+    "English Name": "Rathasapthami",
+    "Telugu Name": "రధ సప్తమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV172"
+  },
+  {
+    "Track ID": "DV173",
+    "English Name": "Bheesmastami",
+    "Telugu Name": "భీష్మాష్టమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV173"
+  },
+  {
+    "Track ID": "DV174",
+    "English Name": "Maagha Puranam - 9",
+    "Telugu Name": "మాఘ పురాణం - 9",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV174"
+  },
+  {
+    "Track ID": "DV175",
+    "English Name": "Maagha Puranam - 10",
+    "Telugu Name": "మాఘ పురాణం - 10",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV175"
+  },
+  {
+    "Track ID": "DV176",
+    "English Name": "Maagha Puranam - 11",
+    "Telugu Name": "మాఘ పురాణం - 11",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV176"
+  },
+  {
+    "Track ID": "DV177",
+    "English Name": "Maagha Puranam - 12",
+    "Telugu Name": "మాఘ పురాణం - 12",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV177"
+  },
+  {
+    "Track ID": "DV178",
+    "English Name": "Maagha Puranam - 13",
+    "Telugu Name": "మాఘ పురాణం - 13",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV178"
+  },
+  {
+    "Track ID": "DV179",
+    "English Name": "Maagha Puranam - 14",
+    "Telugu Name": "మాఘ పురాణం - 14",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV179"
+  },
+  {
+    "Track ID": "DV180",
+    "English Name": "Maagha Puranam - 15",
+    "Telugu Name": "మాఘ పురాణం - 15",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV180"
+  },
+  {
+    "Track ID": "DV181",
+    "English Name": "Maagha Puranam - 16",
+    "Telugu Name": "మాఘ పురాణం - 16",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV181"
+  },
+  {
+    "Track ID": "DV182",
+    "English Name": "Maagha Puranam - 17",
+    "Telugu Name": "మాఘ పురాణం - 17",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV182"
+  },
+  {
+    "Track ID": "DV183",
+    "English Name": "Maagha Puranam - 18",
+    "Telugu Name": "మాఘ పురాణం - 18",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV183"
+  },
+  {
+    "Track ID": "DV184",
+    "English Name": "Maagha Puranam - 19",
+    "Telugu Name": "మాఘ పురాణం - 19",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV184"
+  },
+  {
+    "Track ID": "DV185",
+    "English Name": "Maagha Puranam - 20",
+    "Telugu Name": "మాఘ పురాణం - 20",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV185"
+  },
+  {
+    "Track ID": "DV186",
+    "English Name": "Maagha Puranam - 21",
+    "Telugu Name": "మాఘ పురాణం - 21",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV186"
+  },
+  {
+    "Track ID": "DV187",
+    "English Name": "Maagha Puranam - 22",
+    "Telugu Name": "మాఘ పురాణం - 22",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV187"
+  },
+  {
+    "Track ID": "DV188",
+    "English Name": "Maagha Puranam - 23",
+    "Telugu Name": "మాఘ పురాణం - 23",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV188"
+  },
+  {
+    "Track ID": "DV189",
+    "English Name": "Maagha Puranam - 24",
+    "Telugu Name": "మాఘ పురాణం - 24",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV189"
+  },
+  {
+    "Track ID": "DV190",
+    "English Name": "Maagha Puranam - 25",
+    "Telugu Name": "మాఘ పురాణం - 25",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV190"
+  },
+  {
+    "Track ID": "DV191",
+    "English Name": "Maagha Puranam - 26",
+    "Telugu Name": "మాఘ పురాణం - 26",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV191"
+  },
+  {
+    "Track ID": "DV192",
+    "English Name": "Maha Sivaraatri Pratyakam",
+    "Telugu Name": "మహా శివరాత్రి ప్రత్యేకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV192"
+  },
+  {
+    "Track ID": "DV193",
+    "English Name": "Maagha Puranam - 27",
+    "Telugu Name": "మాఘ పురాణం - 27",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV193"
+  },
+  {
+    "Track ID": "DV194",
+    "English Name": "Maagha Puranam - 28",
+    "Telugu Name": "మాఘ పురాణం - 28",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV194"
+  },
+  {
+    "Track ID": "DV195",
+    "English Name": "Maagha Puranam - Phalasruthi",
+    "Telugu Name": "మాఘ పురాణం - ఫలశ్రుతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV195"
+  },
+  {
+    "Track ID": "DV196",
+    "English Name": "Ishana Trayam",
+    "Telugu Name": "ఈషణత్రయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV196"
+  },
+  {
+    "Track ID": "DV197",
+    "English Name": "Sagara Madanam Antharardham - 1",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV197"
+  },
+  {
+    "Track ID": "DV198",
+    "English Name": "Sagara Madanam Antharardham - 2",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV198"
+  },
+  {
+    "Track ID": "DV199",
+    "English Name": "Sagara Madanam Antharardham - 3",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV199"
+  },
+  {
+    "Track ID": "DV200",
+    "English Name": "Sagara Madanam Antharardham - 4",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV200"
+  },
+  {
+    "Track ID": "DV201",
+    "English Name": "Sagara Madanam Antharardham - 5",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV201"
+  },
+  {
+    "Track ID": "DV202",
+    "English Name": "Sagara Madanam Antharardham - 6",
+    "Telugu Name": "సాగర మధనం అంతరార్ధం - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV202"
+  },
+  {
+    "Track ID": "DV203",
+    "English Name": "Swardha Parardha Paramardhamulu - Namaskaara Vidhaanam",
+    "Telugu Name": "స్వార్ధ పరార్ధ పరమార్ధములు - నమస్కార విధానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV203"
+  },
+  {
+    "Track ID": "DV204",
+    "English Name": "Dhandam",
+    "Telugu Name": "దండం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV204"
+  },
+  {
+    "Track ID": "DV205",
+    "English Name": "Abhivaadham",
+    "Telugu Name": "అభివాదం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV205"
+  },
+  {
+    "Track ID": "DV206",
+    "English Name": "Pranipaatam",
+    "Telugu Name": "ప్రణిపాతం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV206"
+  },
+  {
+    "Track ID": "DV207",
+    "English Name": "Prayojakatvam",
+    "Telugu Name": "ప్రయోజకత్వం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV207"
+  },
+  {
+    "Track ID": "DV208",
+    "English Name": "Swardha Parardha Paramardhamulu",
+    "Telugu Name": "స్వార్ధ పరార్ధ పరమార్ధములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV208"
+  },
+  {
+    "Track ID": "DV209",
+    "English Name": "Kastam",
+    "Telugu Name": "కష్టం గురించి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV209"
+  },
+  {
+    "Track ID": "DV210",
+    "English Name": "Manushya Janma Visistita",
+    "Telugu Name": "మనుష్య జన్మ విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV210"
+  },
+  {
+    "Track ID": "DV211",
+    "English Name": "Vivaahaaniki Choodavalasibavi",
+    "Telugu Name": "వివాహానికి చూడాల్సినవి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV211"
+  },
+  {
+    "Track ID": "DV212",
+    "English Name": "Thellavaarujhaamuna Nidra Yendhuku Levaali ?",
+    "Telugu Name": "తెల్లవారు జామున నిద్ర ఎందుకు లేవాలి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV212"
+  },
+  {
+    "Track ID": "DV213",
+    "English Name": "Sneha Dharmam",
+    "Telugu Name": "స్నేహ ధర్మం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV213"
+  },
+  {
+    "Track ID": "DV214",
+    "English Name": "Saadhanaa Chathushtayam",
+    "Telugu Name": "సాధన చతుష్టయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV214"
+  },
+  {
+    "Track ID": "DV215",
+    "English Name": "Neeru Praadhaanyatha",
+    "Telugu Name": "నీరు ప్రాధాన్యత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV215"
+  },
+  {
+    "Track ID": "DV216",
+    "English Name": "Devudu Okkade",
+    "Telugu Name": "దేవుడు ఒక్కడే",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV216"
+  },
+  {
+    "Track ID": "DV217",
+    "English Name": "Shiva Keshavula Abhedham",
+    "Telugu Name": "శివ కేశవుల అభేదం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV217"
+  },
+  {
+    "Track ID": "DV218",
+    "English Name": "House / Illu",
+    "Telugu Name": "ఇల్లు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV218"
+  },
+  {
+    "Track ID": "DV219",
+    "English Name": "Lakshya Saadhanalo Dhruthi",
+    "Telugu Name": "లక్ష్యసాధనలో ధ్రుతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV219"
+  },
+  {
+    "Track ID": "DV220",
+    "English Name": "Lakshya Saadhanalo Drushti",
+    "Telugu Name": "లక్ష్యసాధనలో ద్రుష్టి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV220"
+  },
+  {
+    "Track ID": "DV221",
+    "English Name": "Lakshya Saadhanalo Mathi",
+    "Telugu Name": "లక్ష్యసాధనలో మతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV221"
+  },
+  {
+    "Track ID": "DV222",
+    "English Name": "Lakshya Saadhanalo Daakshyam",
+    "Telugu Name": "లక్ష్యసాధనలో దాష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV222"
+  },
+  {
+    "Track ID": "DV223",
+    "English Name": "Dharmanustaanam Vidhi",
+    "Telugu Name": "ధర్మానుష్టానం విధి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV223"
+  },
+  {
+    "Track ID": "DV224",
+    "English Name": "How To Do Pooja With Flowers",
+    "Telugu Name": "పువ్వులతో పూజ ఎలా చెయ్యాలి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV224"
+  },
+  {
+    "Track ID": "DV225",
+    "English Name": "Ugadi",
+    "Telugu Name": "ఉగాది",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV225"
+  },
+  {
+    "Track ID": "DV226",
+    "English Name": "Pattu Vidupu Paramaardham",
+    "Telugu Name": "పట్టు విడుపు పరమార్ధం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV226"
+  },
+  {
+    "Track ID": "DV227",
+    "English Name": "Gayaa Varjitham",
+    "Telugu Name": "గయా వర్జితం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV227"
+  },
+  {
+    "Track ID": "DV228",
+    "English Name": "Visham Ante Emiti?",
+    "Telugu Name": "విషం అంటే ఏమిటి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV228"
+  },
+  {
+    "Track ID": "DV229",
+    "English Name": "Kasta Sukhalu",
+    "Telugu Name": "కష్ట సుఖాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV229"
+  },
+  {
+    "Track ID": "DV230",
+    "English Name": "Dhurjati Sloka Vivarana",
+    "Telugu Name": "ధూర్జటి శ్లోక వివరణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV230"
+  },
+  {
+    "Track ID": "DV231",
+    "English Name": "Hanuma Sindhurum",
+    "Telugu Name": "హనుమ సింధూరం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV231"
+  },
+  {
+    "Track ID": "DV232",
+    "English Name": "Anna Prasana",
+    "Telugu Name": "అన్న ప్రాశన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV232"
+  },
+  {
+    "Track ID": "DV233",
+    "English Name": "How To Talk",
+    "Telugu Name": "మాట్లాడడం ఎలా ఉండాలి?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV233"
+  },
+  {
+    "Track ID": "DV234",
+    "English Name": "Karmanyekam Manasyekam",
+    "Telugu Name": "కర్మణ్యేకం మనస్యేకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV234"
+  },
+  {
+    "Track ID": "DV235",
+    "English Name": "Pranaayaamam",
+    "Telugu Name": "ప్రాణాయామం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV235"
+  },
+  {
+    "Track ID": "DV236",
+    "English Name": "Pooja",
+    "Telugu Name": "పూజ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV236"
+  },
+  {
+    "Track ID": "DV237",
+    "English Name": "Vivaaham",
+    "Telugu Name": "వివాహం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV237"
+  },
+  {
+    "Track ID": "DV238",
+    "English Name": "Divya Vrukshaalu",
+    "Telugu Name": "దివ్య వృక్షాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV238"
+  },
+  {
+    "Track ID": "DV239",
+    "English Name": "Nithya Jeevithamlo Aayurvedam yokka Visishtatha",
+    "Telugu Name": "నిత్య జీవితంలో ఆయుర్వేదం యొక్క విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV239"
+  },
+  {
+    "Track ID": "DV240",
+    "English Name": "Kalikaalamlo Raakshasa Pravrutthi",
+    "Telugu Name": "కలికాలంలో రాక్షస ప్రవృత్తి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV240"
+  },
+  {
+    "Track ID": "DV241",
+    "English Name": "Lakshmi",
+    "Telugu Name": "లక్ష్మి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV241"
+  },
+  {
+    "Track ID": "DV242",
+    "English Name": "Srushtiloni Jeevaraasulanundi Nerchukovalasinavi",
+    "Telugu Name": "సృష్టిలోని జీవరాశుల నుండి నేర్చుకోవలసినవి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV242"
+  },
+  {
+    "Track ID": "DV243",
+    "English Name": "Parameshwaruni Aiadhu Mukhamula Visishtatha",
+    "Telugu Name": "పరమేశ్వరుని ఐదు ముఖముల విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV243"
+  },
+  {
+    "Track ID": "DV244",
+    "English Name": "Udhayaanne nidhra levagaane cheyavalasina mukhyamaina pani",
+    "Telugu Name": "ఉదయాన్నే నిద్ర లేవగానే చేయవలసిన ముఖ్యమైన పని",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV244"
+  },
+  {
+    "Track ID": "DV245",
+    "English Name": "Arghyapradaana Visishtatha",
+    "Telugu Name": "అర్ఘ్యప్రదాన విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV245"
+  },
+  {
+    "Track ID": "DV246",
+    "English Name": "Shaareerika Thapassu",
+    "Telugu Name": "శారీరక తపస్సు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV246"
+  },
+  {
+    "Track ID": "DV247",
+    "English Name": "Maanava Janma Prayojanam",
+    "Telugu Name": "మానవ జన్మ ప్రయోజనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV247"
+  },
+  {
+    "Track ID": "DV248",
+    "English Name": "Dhaya - Karuna",
+    "Telugu Name": "దయ - కరుణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV248"
+  },
+  {
+    "Track ID": "DV249",
+    "English Name": "Showcham",
+    "Telugu Name": "శౌచం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV249"
+  },
+  {
+    "Track ID": "DV250",
+    "English Name": "Karma Phalam - Anushaasanika Parvam Katha",
+    "Telugu Name": "కర్మఫలం - అనుశాసనిక పర్వం కథ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV250"
+  },
+  {
+    "Track ID": "DV251",
+    "English Name": "Saamaanya Dharmaalu",
+    "Telugu Name": "సామాన్య ధర్మాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV251"
+  },
+  {
+    "Track ID": "DV252",
+    "English Name": "Karma Yogi",
+    "Telugu Name": "కర్మ యోగి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV252"
+  },
+  {
+    "Track ID": "DV253",
+    "English Name": "Aachaaraalu",
+    "Telugu Name": "ఆచారాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV253"
+  },
+  {
+    "Track ID": "DV254",
+    "English Name": "Sanaathanamulo Vaidya Vidhaanaalu",
+    "Telugu Name": "సనాతనములో వైద్య విధానాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV254"
+  },
+  {
+    "Track ID": "DV255",
+    "English Name": "Gaayathri Manthra Vaisishtyam",
+    "Telugu Name": "గాయత్రి మంత్ర వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV255"
+  },
+  {
+    "Track ID": "DV256",
+    "English Name": "Kapila Geetha - 1",
+    "Telugu Name": "కపిల గీత - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV256"
+  },
+  {
+    "Track ID": "DV257",
+    "English Name": "Kapila Geetha - 2",
+    "Telugu Name": "కపిల గీత - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV257"
+  },
+  {
+    "Track ID": "DV258",
+    "English Name": "Kapila Geetha - 3",
+    "Telugu Name": "కపిల గీత - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV258"
+  },
+  {
+    "Track ID": "DV259",
+    "English Name": "Shankara Jayanthi",
+    "Telugu Name": "శంకర జయంతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV259"
+  },
+  {
+    "Track ID": "DV260",
+    "English Name": "Kapila Geetha - 4",
+    "Telugu Name": "కపిల గీత - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV260"
+  },
+  {
+    "Track ID": "DV261",
+    "English Name": "Kapila Geetha - 5",
+    "Telugu Name": "కపిల గీత - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV261"
+  },
+  {
+    "Track ID": "DV262",
+    "English Name": "Shivalinga Vaishishtyam",
+    "Telugu Name": "శివలింగ వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV262"
+  },
+  {
+    "Track ID": "DV263",
+    "English Name": "Ishtaayishtamulu",
+    "Telugu Name": "ఇష్టాయిష్టములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV263"
+  },
+  {
+    "Track ID": "DV264",
+    "English Name": "Aahaaramaa Naivedyamaa ?",
+    "Telugu Name": "ఆహారమూ నైవేద్యమా?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV264"
+  },
+  {
+    "Track ID": "DV265",
+    "English Name": "Vaaraaniki O Devudaa ?",
+    "Telugu Name": "వారానికి ఓ దేవుడా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV265"
+  },
+  {
+    "Track ID": "DV266",
+    "English Name": "Mano Nigraham",
+    "Telugu Name": "మనో నిగ్రహం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV266"
+  },
+  {
+    "Track ID": "DV267",
+    "English Name": "Pancha Daampathyaalu",
+    "Telugu Name": "పంచ దాంపత్యాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV267"
+  },
+  {
+    "Track ID": "DV268",
+    "English Name": "Pooja Yelaa Cheyyaali ?",
+    "Telugu Name": "పూజ ఎలా చెయ్యాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV268"
+  },
+  {
+    "Track ID": "DV269",
+    "English Name": "Raamaayanam Sandesham",
+    "Telugu Name": "రామాయణం సందేశం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV269"
+  },
+  {
+    "Track ID": "DV270",
+    "English Name": "Mahaabhaaratham Samdesham",
+    "Telugu Name": "మహాభారతం సందేశం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV270"
+  },
+  {
+    "Track ID": "DV271",
+    "English Name": "Praayaschittham",
+    "Telugu Name": "ప్రాయశ్చిత్తం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV271"
+  },
+  {
+    "Track ID": "DV272",
+    "English Name": "Nenu Evaru ?",
+    "Telugu Name": "నేను ఎవరు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV272"
+  },
+  {
+    "Track ID": "DV273",
+    "English Name": "Ashtaadasa Puraanaalu",
+    "Telugu Name": "అష్టాదశ పురాణాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV273"
+  },
+  {
+    "Track ID": "DV274",
+    "English Name": "Rudraaksha",
+    "Telugu Name": "రుద్రాక్ష",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV274"
+  },
+  {
+    "Track ID": "DV275",
+    "English Name": "Bhasmadhaarana",
+    "Telugu Name": "భస్మధారణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV275"
+  },
+  {
+    "Track ID": "DV276",
+    "English Name": "Thyaagamu - Samtrupthi",
+    "Telugu Name": "త్యాగము - సంతృప్తి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV276"
+  },
+  {
+    "Track ID": "DV277",
+    "English Name": "Hanumad Vaibhavam",
+    "Telugu Name": "హనుమద్ వైభవం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV277"
+  },
+  {
+    "Track ID": "DV278",
+    "English Name": "Chidambara Rahasyam",
+    "Telugu Name": "చిదంబర రహస్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV278"
+  },
+  {
+    "Track ID": "DV279",
+    "English Name": "Pradakshina",
+    "Telugu Name": "ప్రదక్షిణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV279"
+  },
+  {
+    "Track ID": "DV280",
+    "English Name": "Vaakbhooshanam",
+    "Telugu Name": "వాక్భూషణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV280"
+  },
+  {
+    "Track ID": "DV281",
+    "English Name": "Anushtaanam - Upaasana",
+    "Telugu Name": "అనుష్టానం - ఉపాసన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV281"
+  },
+  {
+    "Track ID": "DV282",
+    "English Name": "Inti Perlu - Gothraalu",
+    "Telugu Name": "ఇంటి పేర్లు - గోత్రాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV282"
+  },
+  {
+    "Track ID": "DV283",
+    "English Name": "Kaala Mahima",
+    "Telugu Name": "కాల మహిమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV283"
+  },
+  {
+    "Track ID": "DV284",
+    "English Name": "Dasaaswamedha Snaanam",
+    "Telugu Name": "దశాశ్వమేధ స్నానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV284"
+  },
+  {
+    "Track ID": "DV285",
+    "English Name": "Aadhyaatmika Thaapam",
+    "Telugu Name": "ఆధ్యాత్మిక తాపము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV285"
+  },
+  {
+    "Track ID": "DV286",
+    "English Name": "Aadi Bhoutika Thaapamu",
+    "Telugu Name": "ఆది భౌతిక తాపము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV286"
+  },
+  {
+    "Track ID": "DV287",
+    "English Name": "Aadi Daivika Thaapamu",
+    "Telugu Name": "ఆది దైవిక తాపము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV287"
+  },
+  {
+    "Track ID": "DV288",
+    "English Name": "Karmanyekam",
+    "Telugu Name": "కర్మణ్యేకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV288"
+  },
+  {
+    "Track ID": "DV289",
+    "English Name": "Thathaasthu Devathalu",
+    "Telugu Name": "తథాస్తు థేవతలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV289"
+  },
+  {
+    "Track ID": "DV290",
+    "English Name": "Kopamu - Paapamu",
+    "Telugu Name": "కోపము - పాపము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV290"
+  },
+  {
+    "Track ID": "DV291",
+    "English Name": "Bhayamulu",
+    "Telugu Name": "భయములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV291"
+  },
+  {
+    "Track ID": "DV292",
+    "English Name": "Manishi Saadhinchavalasindi Yemiti ?",
+    "Telugu Name": "మనిషి సాధించవలసింది ఏమిటి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV292"
+  },
+  {
+    "Track ID": "DV293",
+    "English Name": "Gangaavatharanam - 1",
+    "Telugu Name": "గంగావతరణం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV293"
+  },
+  {
+    "Track ID": "DV294",
+    "English Name": "Gangaavatharanam - 2",
+    "Telugu Name": "గంగావతరణం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV294"
+  },
+  {
+    "Track ID": "DV295",
+    "English Name": "Gangaavatharanam - 3",
+    "Telugu Name": "గంగావతరణం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV295"
+  },
+  {
+    "Track ID": "DV296",
+    "English Name": "Kaalahastheeswara Shathakam",
+    "Telugu Name": "కాళహస్తీశ్వర శతకం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV296"
+  },
+  {
+    "Track ID": "DV297",
+    "English Name": "Muppaimoodu Kotla Devathalaa ?",
+    "Telugu Name": "ముప్ఫైమూడు కోట్ల దేవతలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV297"
+  },
+  {
+    "Track ID": "DV298",
+    "English Name": "Devudaa ? Jeevudaa ?",
+    "Telugu Name": "దేవుడా ? జీవుడా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV298"
+  },
+  {
+    "Track ID": "DV299",
+    "English Name": "Japam yelaa cheyaali ?",
+    "Telugu Name": "జపం ఎలా చేయాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV299"
+  },
+  {
+    "Track ID": "DV300",
+    "English Name": "Bhagavanthudu Manakem Chesthunnadu ?",
+    "Telugu Name": "భగవంతుడు మనకేం చేస్తున్నాడు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV300"
+  },
+  {
+    "Track ID": "DV301",
+    "English Name": "Dwesham Yendhuku ?",
+    "Telugu Name": "ద్వేషం ఎందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV301"
+  },
+  {
+    "Track ID": "DV302",
+    "English Name": "Pancha Paathakamulu",
+    "Telugu Name": "పంచ పాతకములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV302"
+  },
+  {
+    "Track ID": "DV303",
+    "English Name": "Sokam Yenduku ?",
+    "Telugu Name": "శోకం ఎందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV303"
+  },
+  {
+    "Track ID": "DV304",
+    "English Name": "Anahankaari Lakshanam",
+    "Telugu Name": "అనహంకారి లక్షణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV304"
+  },
+  {
+    "Track ID": "DV305",
+    "English Name": "Aahaara Visesham",
+    "Telugu Name": "ఆహార విశేషం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV305"
+  },
+  {
+    "Track ID": "DV306",
+    "English Name": "Dikkulu mariyu Digdevathalu - 1",
+    "Telugu Name": "దిక్కులు మరియు దిగ్దేవతలు -1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV306"
+  },
+  {
+    "Track ID": "DV307",
+    "English Name": "Dikkulu mariyu Digdevathalu - 2",
+    "Telugu Name": "దిక్కులు మరియు దిగ్దేవతలు - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV307"
+  },
+  {
+    "Track ID": "DV308",
+    "English Name": "Mudu Anke Visishtatha",
+    "Telugu Name": "మూడు అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV308"
+  },
+  {
+    "Track ID": "DV309",
+    "English Name": "Naalugu Anke Visishtatha",
+    "Telugu Name": "నాలుగు అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV309"
+  },
+  {
+    "Track ID": "DV310",
+    "English Name": "Eaidhu Anke Visishtatha",
+    "Telugu Name": "ఐదు అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV310"
+  },
+  {
+    "Track ID": "DV311",
+    "English Name": "Aaru  Anke Visishtatha",
+    "Telugu Name": "ఆరు అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV311"
+  },
+  {
+    "Track ID": "DV312",
+    "English Name": "Yedu Anke Visishtatha",
+    "Telugu Name": "ఏడు అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV312"
+  },
+  {
+    "Track ID": "DV313",
+    "English Name": "Yenimidhi Anke Visishtatha",
+    "Telugu Name": "ఎనిమిది అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV313"
+  },
+  {
+    "Track ID": "DV314",
+    "English Name": "Thommidhi Anke Visishtatha",
+    "Telugu Name": "తొమ్మిది అంకె విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV314"
+  },
+  {
+    "Track ID": "DV315",
+    "English Name": "Ekaadasi Visishtatha",
+    "Telugu Name": "ఏకాదశి విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV315"
+  },
+  {
+    "Track ID": "DV316",
+    "English Name": "Nava Vidha Bhakti Maargaalu",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV316"
+  },
+  {
+    "Track ID": "DV317",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Sravanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - శ్రవణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV317"
+  },
+  {
+    "Track ID": "DV318",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Keerthanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - కీర్తనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV318"
+  },
+  {
+    "Track ID": "DV319",
+    "English Name": "Dakshinayana Vaisishtyam",
+    "Telugu Name": "దక్షిణాయన వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV319"
+  },
+  {
+    "Track ID": "DV320",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Vishnosmaranam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - విష్ణోస్మరణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV320"
+  },
+  {
+    "Track ID": "DV321",
+    "English Name": "Nava Vdha Bhakti Maargaalu - Paada Sevanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - పాద సేవనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV321"
+  },
+  {
+    "Track ID": "DV322",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Archanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - అర్చనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV322"
+  },
+  {
+    "Track ID": "DV323",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Vandhanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - వందనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV323"
+  },
+  {
+    "Track ID": "DV324",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Sakhyam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - సఖ్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV324"
+  },
+  {
+    "Track ID": "DV325",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Daasyam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - దాస్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV325"
+  },
+  {
+    "Track ID": "DV326",
+    "English Name": "Nava Vidha Bhakti Maargaalu - Aatma Nivedanam",
+    "Telugu Name": "నవవిధ భక్తి మార్గాలు - ఆత్మ నివేదనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV326"
+  },
+  {
+    "Track ID": "DV327",
+    "English Name": "Guru Pournani Vaisishtyam",
+    "Telugu Name": "గురు పౌర్ణమి వైశిష్ట్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV327"
+  },
+  {
+    "Track ID": "DV328",
+    "English Name": "Bhagavad Geetha Yenduku ?",
+    "Telugu Name": "భగవద్గీత ఎందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV328"
+  },
+  {
+    "Track ID": "DV329",
+    "English Name": "Dharmam Yekkadekkada Aacharinchaali ?",
+    "Telugu Name": "ధర్మం ఎక్కడెక్కడ ఆచరించాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV329"
+  },
+  {
+    "Track ID": "DV330",
+    "English Name": "Niraasa Yenduku ?",
+    "Telugu Name": "నిరాశ ఎందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV330"
+  },
+  {
+    "Track ID": "DV331",
+    "English Name": "Dukkham Deniki ?",
+    "Telugu Name": "దుఃఖం దేనికి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV331"
+  },
+  {
+    "Track ID": "DV332",
+    "English Name": "Swapna Sareeram Yelaa ?",
+    "Telugu Name": "స్వప్న శరీరం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV332"
+  },
+  {
+    "Track ID": "DV333",
+    "English Name": "Karma Siddhantam - 1",
+    "Telugu Name": "కర్మ సిద్ధాంతం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV333"
+  },
+  {
+    "Track ID": "DV334",
+    "English Name": "Karma Siddhaantam - 2",
+    "Telugu Name": "కర్మ సిద్ధాంతం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV334"
+  },
+  {
+    "Track ID": "DV335",
+    "English Name": "Pongaku - Krungaku",
+    "Telugu Name": "పొంగకు - కృంగకు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV335"
+  },
+  {
+    "Track ID": "DV336",
+    "English Name": "Yevaru Sreshtulu ?",
+    "Telugu Name": "ఎవరు శ్రేష్టులు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV336"
+  },
+  {
+    "Track ID": "DV337",
+    "English Name": "Vishaya Sanghamu",
+    "Telugu Name": "విషయ సంఘము",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV337"
+  },
+  {
+    "Track ID": "DV338",
+    "English Name": "Vishaya Sanghamu - 2",
+    "Telugu Name": "విషయ సంఘము - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV338"
+  },
+  {
+    "Track ID": "DV339",
+    "English Name": "Annamelaa Sampaadinchaali ?",
+    "Telugu Name": "అన్నమెలా సంపాదించాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV339"
+  },
+  {
+    "Track ID": "DV340",
+    "English Name": "Manam Cheyavalasina Yagnamedi ?",
+    "Telugu Name": "మనం చేయవలసిన యజ్ఞమేది ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV340"
+  },
+  {
+    "Track ID": "DV341",
+    "English Name": "Nee Swaroopamemiti ?",
+    "Telugu Name": "నీ స్వరూపమేమిటి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV341"
+  },
+  {
+    "Track ID": "DV342",
+    "English Name": "Manassanthiki Maargam !",
+    "Telugu Name": "మనశ్శాంతికి మార్గం !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV342"
+  },
+  {
+    "Track ID": "DV343",
+    "English Name": "Sraddha Yenduku ?",
+    "Telugu Name": "శ్రద్ధ ఎందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV343"
+  },
+  {
+    "Track ID": "DV344",
+    "English Name": "Stay Focused",
+    "Telugu Name": "స్టే ఫోకస్ డ్",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV344"
+  },
+  {
+    "Track ID": "DV345",
+    "English Name": "Satsangamenduku ?",
+    "Telugu Name": "సత్సంగమెందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV345"
+  },
+  {
+    "Track ID": "DV346",
+    "English Name": "Pravarthanalaku Soochanalu !",
+    "Telugu Name": "ప్రవర్తనలకు సూచనలు !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV346"
+  },
+  {
+    "Track ID": "DV347",
+    "English Name": "Nishta",
+    "Telugu Name": "నిష్ట",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV347"
+  },
+  {
+    "Track ID": "DV348",
+    "English Name": "Sreshtatwam",
+    "Telugu Name": "శ్రేష్టత్వం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV348"
+  },
+  {
+    "Track ID": "DV349",
+    "English Name": "Yevaru Kartha ?",
+    "Telugu Name": "ఎవరు కర్త ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV349"
+  },
+  {
+    "Track ID": "DV350",
+    "English Name": "Lakshya Suddhi",
+    "Telugu Name": "లక్ష్య శుద్ధి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV350"
+  },
+  {
+    "Track ID": "DV351",
+    "English Name": "Swadharmam Sreyaskaram",
+    "Telugu Name": "స్వధర్మం శ్రేయస్కరం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV351"
+  },
+  {
+    "Track ID": "DV352",
+    "English Name": "Indriyamaa, Manassaa !",
+    "Telugu Name": "ఇంద్రియమా, మనస్సా !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV352"
+  },
+  {
+    "Track ID": "DV353",
+    "English Name": "Dharma Samsthapana",
+    "Telugu Name": "ధర్మ సంస్థాపన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV353"
+  },
+  {
+    "Track ID": "DV354",
+    "English Name": "Dushta Sikshana - Sishta Rakshana",
+    "Telugu Name": "దుష్ట శిక్షణ - శిష్ట రక్షణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV354"
+  },
+  {
+    "Track ID": "DV355",
+    "English Name": "Goppagaa Panulu Cheyadam Yelaa ?",
+    "Telugu Name": "గొప్నగా పనులు చేయడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV355"
+  },
+  {
+    "Track ID": "DV356",
+    "English Name": "Sraavana Pournami",
+    "Telugu Name": "శ్రావణ పౌర్ణమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV356"
+  },
+  {
+    "Track ID": "DV357",
+    "English Name": "Karmaacharana Yelaa Cheyyaali ?",
+    "Telugu Name": "కర్మాచరణ ఎలా చెయ్యాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV357"
+  },
+  {
+    "Track ID": "DV358",
+    "English Name": "Goppa Lakshanamulu",
+    "Telugu Name": "గొప్ప లక్షణములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV358"
+  },
+  {
+    "Track ID": "DV359",
+    "English Name": "Eeswaraarpanam Ante ?",
+    "Telugu Name": "ఈశ్వరార్పణం అంటే ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV359"
+  },
+  {
+    "Track ID": "DV360",
+    "English Name": "Prathi Okkaru Cheya Kaligina Yagnyamulu !",
+    "Telugu Name": "ప్రతి ఒక్కరూ చేయ కలిగిన యజ్ఞములు !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV360"
+  },
+  {
+    "Track ID": "DV361",
+    "English Name": "Guruvulanu Yelaa Prasninchaali ?",
+    "Telugu Name": "గురువులను ఎలా ప్రశ్నించాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV361"
+  },
+  {
+    "Track ID": "DV362",
+    "English Name": "Paiki Raavaalante Vadala Valasina Lakshanamulu",
+    "Telugu Name": "పైకి రావాలంటే వదల వలసిన లక్షణములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV362"
+  },
+  {
+    "Track ID": "DV363",
+    "English Name": "Karmaacharanaa, Sanyaasamaa ?",
+    "Telugu Name": "కర్మాచరణా, సన్యాసమా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV363"
+  },
+  {
+    "Track ID": "DV364",
+    "English Name": "Neevevaravo Thelusuko",
+    "Telugu Name": "నీవెవరవో తెలుసుకో",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV364"
+  },
+  {
+    "Track ID": "DV365",
+    "English Name": "Neeku Gurthimpu Yevvarivvaali ?",
+    "Telugu Name": "నీకు గుర్తింపు ఎవ్వరివ్వాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV365"
+  },
+  {
+    "Track ID": "DV366",
+    "English Name": "Nee Santosham Yekkada ?",
+    "Telugu Name": "నీ సంతోషం ఎక్కడ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV366"
+  },
+  {
+    "Track ID": "DV367",
+    "English Name": "Vaarshikotsava Sandesam",
+    "Telugu Name": "వార్షికోత్సవ సందేశం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV367"
+  },
+  {
+    "Track ID": "DV368",
+    "English Name": "Swayam Prakaasam Saadhinchadamelaa ?",
+    "Telugu Name": "స్వయం ప్రకాశం సాధించడమెలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV368"
+  },
+  {
+    "Track ID": "DV369",
+    "English Name": "Geeta - Sama Bhaavana",
+    "Telugu Name": "గీత - సమభావన",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV369"
+  },
+  {
+    "Track ID": "DV370",
+    "English Name": "Istaaistamulanu Yelaa Niyantrinchaali ?",
+    "Telugu Name": "ఇష్టాఇష్టములను ఎలా నియంత్రించాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV370"
+  },
+  {
+    "Track ID": "DV371",
+    "English Name": "Sukhangaa Vundaalante ?",
+    "Telugu Name": "సుఖంగా ఉండాలంటే ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV371"
+  },
+  {
+    "Track ID": "DV372",
+    "English Name": "Satakoti Gaayatri Mahaa Mantra Japa Yagnyam",
+    "Telugu Name": "శతకోటి గాయత్రీ మహామంత్ర జప యజ్ఞం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV372"
+  },
+  {
+    "Track ID": "DV373",
+    "English Name": "Korikalu Unte Tappu Kaadu",
+    "Telugu Name": "కోరికలు ఉంటే తప్పు కాదు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV373"
+  },
+  {
+    "Track ID": "DV374",
+    "English Name": "Santamu Leka Soukhyamu Ledu !",
+    "Telugu Name": "శాంతము లేక సౌఖ్యము లేదు !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV374"
+  },
+  {
+    "Track ID": "DV375",
+    "English Name": "Vinaya Chavithi Subhaakaankshalatho !",
+    "Telugu Name": "వినాయక చవితి శుభాకాంక్షలతో !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV375"
+  },
+  {
+    "Track ID": "DV376",
+    "English Name": "Karma Yogi Ante Evaru ?",
+    "Telugu Name": "కర్మ యోగి అంటే ఎవరు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV376"
+  },
+  {
+    "Track ID": "DV377",
+    "English Name": "Yevaru Aatma Bandhuvu ?",
+    "Telugu Name": "ఎవరు ఆత్మబంధువు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV377"
+  },
+  {
+    "Track ID": "DV378",
+    "English Name": "Saadhana Yelaa Cheyyaali ?",
+    "Telugu Name": "సాధన ఎలా చేయాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV378"
+  },
+  {
+    "Track ID": "DV379",
+    "English Name": "Pranaalikalu Vetiki Undaali ?",
+    "Telugu Name": "ప్రణాళికలు వేటికి ఉండాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV379"
+  },
+  {
+    "Track ID": "DV380",
+    "English Name": "Sthira Chittham Saadhinchadam Yelaa ?",
+    "Telugu Name": "స్థిర చిత్తం సాధించడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV380"
+  },
+  {
+    "Track ID": "DV381",
+    "English Name": "Bhagavantudu Yekkada Vuntaadu ?",
+    "Telugu Name": "భగవంతుడు ఎక్కడ ఉంటాడు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV381"
+  },
+  {
+    "Track ID": "DV382",
+    "English Name": "Manassunu Nigrahinchadamelaa ?",
+    "Telugu Name": "మనస్సును నిగ్రహించడమెలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV382"
+  },
+  {
+    "Track ID": "DV383",
+    "English Name": "Saadhana Cheyadam Yelaa ?",
+    "Telugu Name": "సాధన చేయడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV383"
+  },
+  {
+    "Track ID": "DV384",
+    "English Name": "Yenimidi Vidhamula Bhagavat Tatvam",
+    "Telugu Name": "ఎనిమిది విధముల భగవత్ తత్వం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV384"
+  },
+  {
+    "Track ID": "DV385",
+    "English Name": "Bhagavatudu Cheemalonaa ?",
+    "Telugu Name": "భగవంతుడు చీమలోనా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV385"
+  },
+  {
+    "Track ID": "DV386",
+    "English Name": "Bhagavad Bhaktulalo Yenni Rakaalu ?",
+    "Telugu Name": "భగవద్ భక్తులలో ఎన్ని రకాలు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV386"
+  },
+  {
+    "Track ID": "DV387",
+    "English Name": "Janma Bhoomi Goppatanam",
+    "Telugu Name": "జన్మ భూమి గొప్పతనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV387"
+  },
+  {
+    "Track ID": "DV388",
+    "English Name": "Maayanu Jayinchadaaniki Sulabhopaayam",
+    "Telugu Name": "మాయను జయించడానికి సులభోపాయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV388"
+  },
+  {
+    "Track ID": "DV389",
+    "English Name": "Yevaru Mahaatmulu ?",
+    "Telugu Name": "ఎవరు మహాత్ములు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV389"
+  },
+  {
+    "Track ID": "DV390",
+    "English Name": "Janma Lekunda Chesukovadam Yelaa ?",
+    "Telugu Name": "జన్మ లేకుండా చేసుకోవడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV390"
+  },
+  {
+    "Track ID": "DV391",
+    "English Name": "Arjununi Konni Prasnalu",
+    "Telugu Name": "అర్జునుని కొన్ని ప్రశ్నలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV391"
+  },
+  {
+    "Track ID": "DV392",
+    "English Name": "Dainandina Jeevitham Yelaa Gadapaali ?",
+    "Telugu Name": "దైనందిన జీవితం ఎలా గడపాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV392"
+  },
+  {
+    "Track ID": "DV393",
+    "English Name": "Principles for Success in Life",
+    "Telugu Name": "ప్రిన్సిపల్స్ ఫర్ సక్సెస్ ఇన్ లైఫ్",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV393"
+  },
+  {
+    "Track ID": "DV394",
+    "English Name": "Bhagavat Saktini Yelaa Telusukovaali ?",
+    "Telugu Name": "భగవత్ శక్తిని ఎలా తెలుసుకోవాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV394"
+  },
+  {
+    "Track ID": "DV395",
+    "English Name": "Vishnu Dhaamam Cheradam Yelaa ?",
+    "Telugu Name": "విష్ణు ధామం చేరడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV395"
+  },
+  {
+    "Track ID": "DV396",
+    "English Name": "Maraninchina Vaaru Marala Vastaaraa, Raaraa ?",
+    "Telugu Name": "మరణించిన వారు మరల వస్తారా, రారా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV396"
+  },
+  {
+    "Track ID": "DV397",
+    "English Name": "Nishkaama Karma Valana Prayojanam ?",
+    "Telugu Name": "నిష్కామ కర్మ వలన ప్రయోజనం ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV397"
+  },
+  {
+    "Track ID": "DV398",
+    "English Name": "Maanavuniki Layam Ante ?",
+    "Telugu Name": "మానవునికి లయం అంటే ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV398"
+  },
+  {
+    "Track ID": "DV399",
+    "English Name": "Yogam Veru, Kshemam Veraa ?",
+    "Telugu Name": "యోగం వేరు, క్షేమం వేరా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV399"
+  },
+  {
+    "Track ID": "DV400",
+    "English Name": "Bhagavantuniki Preetikaramainadedi ?",
+    "Telugu Name": "భగవంతునికి ప్రీతికరమైనదేది ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV400"
+  },
+  {
+    "Track ID": "DV401",
+    "English Name": "Mahaalaya Amaavaasya",
+    "Telugu Name": "మహాలయ అమావాస్య",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV401"
+  },
+  {
+    "Track ID": "DV402",
+    "English Name": "Sharannavaraatrula Modati Roju Avataaram - Shailaputri",
+    "Telugu Name": "శరన్నవరాత్రులలో మొదటి రోజు అవతారం - శైలపుత్రి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV402"
+  },
+  {
+    "Track ID": "DV403",
+    "English Name": "Sharannavaraatrula Rendava Roju Avataaram - Baalaatripua Sundari - Brahmachaarini",
+    "Telugu Name": "శరన్నవరాత్రుల రెండవ రోజు అవతారం : బాలాత్రిపురసుందరి - బ్రహ్మచారిణి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV403"
+  },
+  {
+    "Track ID": "DV404",
+    "English Name": "Sharannavaraatrula Moodava Roju - Gayathri",
+    "Telugu Name": "శరన్నవరాత్రుల మూడవరోజు - గాయత్రి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV404"
+  },
+  {
+    "Track ID": "DV405",
+    "English Name": "Sharannavaraatrula Naalgava Roju - Annapoorna",
+    "Telugu Name": "శరన్నవరాత్రుల నాల్గవ రోజు - అన్నపూర్ణ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV405"
+  },
+  {
+    "Track ID": "DV406",
+    "English Name": "Sharannavaraatrulalo Aaidava Roju - Lalitha Devi",
+    "Telugu Name": "శరన్నవరాత్రులలో ఐదవ రోజు - లలితా దేవి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV406"
+  },
+  {
+    "Track ID": "DV407",
+    "English Name": "Sharannavaraatrulalo Aarava Roju - Kaatyaayani",
+    "Telugu Name": "శరన్నవరాత్రులలో ఆరవ రోజు - కాత్యాయని",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV407"
+  },
+  {
+    "Track ID": "DV408",
+    "English Name": "Sharannavaraatrula Yedava Roju - Kaalaraatri Maatha",
+    "Telugu Name": "శరన్నవరాత్రుల ఏడవ రోజు - కాళరాత్రి మాత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV408"
+  },
+  {
+    "Track ID": "DV409",
+    "English Name": "Sharannavaraatrula Tommidava Roju - Siddhi Dhaatri",
+    "Telugu Name": "శరన్నవరాత్రుల తొమ్మిదవ రోజు - సిద్ధి ధాత్రి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV409"
+  },
+  {
+    "Track ID": "DV410",
+    "English Name": "Vijaya Dasami Roju - Raajaraajeswari",
+    "Telugu Name": "విజయ దశమి రోజు - రాజరాజేశ్వరి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV410"
+  },
+  {
+    "Track ID": "DV411",
+    "English Name": "Manassuku Sikshana Yelaa Ivvaali !",
+    "Telugu Name": "మనస్సుకు శిక్షణ ఎలా ఇవ్వాలి !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV411"
+  },
+  {
+    "Track ID": "DV412",
+    "English Name": "Bhagavad Vibhooti - 1",
+    "Telugu Name": "భగవద్ విభూతి - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV412"
+  },
+  {
+    "Track ID": "DV413",
+    "English Name": "Rushi Ante Yevaru ?",
+    "Telugu Name": "ఋషీ అంటే ఎవరు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV413"
+  },
+  {
+    "Track ID": "DV414",
+    "English Name": "Saptarshi Mandalam !",
+    "Telugu Name": "సప్తర్షి మండలం !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV414"
+  },
+  {
+    "Track ID": "DV415",
+    "English Name": "Brahmaanandam Pondadam Yelaa ?",
+    "Telugu Name": "బ్రహ్మానందం పొందడం ఎలా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV415"
+  },
+  {
+    "Track ID": "DV416",
+    "English Name": "Bhagavat Tatvam Yelaa Telustundi ? Arjununi Prasna",
+    "Telugu Name": "భగవత్ తత్వం ఎలా తెలుస్తుంది ? అర్జునుని ప్రశ్న",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV416"
+  },
+  {
+    "Track ID": "DV417",
+    "English Name": "Bhagavat Vibhooti - 2",
+    "Telugu Name": "భగవత్ విభూతి - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV417"
+  },
+  {
+    "Track ID": "DV418",
+    "English Name": "Bhagavat Vibhooti - 3",
+    "Telugu Name": "భగవత్ విభూతి - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV418"
+  },
+  {
+    "Track ID": "DV419",
+    "English Name": "Bhagavat Vibooti - 4",
+    "Telugu Name": "భగవత్ విభూతి - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV419"
+  },
+  {
+    "Track ID": "DV420",
+    "English Name": "Bhagavat Vibhooti - 5",
+    "Telugu Name": "భగవత్ విభూతి - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV420"
+  },
+  {
+    "Track ID": "DV421",
+    "English Name": "Bhagavat Vibhooti - 6",
+    "Telugu Name": "భగవత్ విభూతి - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV421"
+  },
+  {
+    "Track ID": "DV422",
+    "English Name": "Bhagavat Vibhooti - 7",
+    "Telugu Name": "భగవత్ విభూతి - 7",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV422"
+  },
+  {
+    "Track ID": "DV423",
+    "English Name": "Bhagavat Vibhooti - 8",
+    "Telugu Name": "భగవత్ విభూతి - 8",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV423"
+  },
+  {
+    "Track ID": "DV424",
+    "English Name": "Viswaroopaaniki Parichayam",
+    "Telugu Name": "విశ్వరూపానికి పరిచయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV424"
+  },
+  {
+    "Track ID": "DV425",
+    "English Name": "Viswaroopa Sandarsanaaniki Bhagavadanujna",
+    "Telugu Name": "విశ్వరూప సందర్శనానికి భగవదనుజ్ఞ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV425"
+  },
+  {
+    "Track ID": "DV426",
+    "English Name": "Viswaroopaaniki Arjuna Vyaakhyaanam",
+    "Telugu Name": "విశ్వరూపానికి అర్జున వ్యాఖ్యానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV426"
+  },
+  {
+    "Track ID": "DV427",
+    "English Name": "Viswaroopaaniki Arjuna Vyaakhyaanam - 2",
+    "Telugu Name": "విశ్వరూపానికి అర్జున వ్యాఖ్యానం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV427"
+  },
+  {
+    "Track ID": "DV428",
+    "English Name": "Kaala Swaroopam Paramaatma",
+    "Telugu Name": "కాల స్వరూపం పరమాత్మ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV428"
+  },
+  {
+    "Track ID": "DV429",
+    "English Name": "Bhakti Valanane Bhagavantudu",
+    "Telugu Name": "భక్తి వలననే భగవంతుడు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV429"
+  },
+  {
+    "Track ID": "DV430",
+    "English Name": "Deepaavali Okaroju Panduganaa ?",
+    "Telugu Name": "దీపావళి ఒకరోజు పండుగనా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV430"
+  },
+  {
+    "Track ID": "DV431",
+    "English Name": "Kaarteeka Puraanam - 1",
+    "Telugu Name": "కార్తీక పురాణం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV431"
+  },
+  {
+    "Track ID": "DV432",
+    "English Name": "Kaarteeka Puraanam - 2",
+    "Telugu Name": "కార్తీక పురాణం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV432"
+  },
+  {
+    "Track ID": "DV433",
+    "English Name": "Kaarteeka Puraanam - 3",
+    "Telugu Name": "కార్తీక పురాణం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV433"
+  },
+  {
+    "Track ID": "DV434",
+    "English Name": "Kaarteeka Puraanam - 4",
+    "Telugu Name": "కార్తీక పురాణం - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV434"
+  },
+  {
+    "Track ID": "DV435",
+    "English Name": "Kaarteeka Puraanam - 5",
+    "Telugu Name": "కార్తీక పురాణం - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV435"
+  },
+  {
+    "Track ID": "DV436",
+    "English Name": "Kaarteeka Puraanam - 6",
+    "Telugu Name": "కార్తీక పురాణం - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV436"
+  },
+  {
+    "Track ID": "DV437",
+    "English Name": "Kaarteeka Puraanam - 7",
+    "Telugu Name": "కార్తీక పురాణం - 7",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV437"
+  },
+  {
+    "Track ID": "DV438",
+    "English Name": "Kaarteeka Puraanam - 8",
+    "Telugu Name": "కార్తీక పురాణం - 8",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV438"
+  },
+  {
+    "Track ID": "DV439",
+    "English Name": "Kaarteeka Puraanam - 9",
+    "Telugu Name": "కార్తీక పురాణం - 9",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV439"
+  },
+  {
+    "Track ID": "DV440",
+    "English Name": "Kaarteeka Puraanam - 10",
+    "Telugu Name": "కార్తీక పురాణం - 10",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV440"
+  },
+  {
+    "Track ID": "DV441",
+    "English Name": "Kaarteeka Puraanam - 11",
+    "Telugu Name": "కార్తీక పురాణం - 11",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV441"
+  },
+  {
+    "Track ID": "DV442",
+    "English Name": "Kaarteeka Puraanam - 12",
+    "Telugu Name": "కార్తీక పురాణం - 12",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV442"
+  },
+  {
+    "Track ID": "DV443",
+    "English Name": "Kaarteeka Puraanam - 13",
+    "Telugu Name": "కార్తీక పురాణం - 13",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV443"
+  },
+  {
+    "Track ID": "DV444",
+    "English Name": "Kaarteeka Puraanam - 14",
+    "Telugu Name": "కార్తీక పురాణం - 14",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV444"
+  },
+  {
+    "Track ID": "DV445",
+    "English Name": "Ä¶aarteeka Puraanam - 15",
+    "Telugu Name": "కార్తీక పురాణం - 15",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV445"
+  },
+  {
+    "Track ID": "DV446",
+    "English Name": "Kaarteeka Puraanam - 16",
+    "Telugu Name": "కార్తీక పురాణం - 16",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV446"
+  },
+  {
+    "Track ID": "DV447",
+    "English Name": "Kaarteeka Puraanam - 17",
+    "Telugu Name": "కార్తీక పురాణం - 17",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV447"
+  },
+  {
+    "Track ID": "DV448",
+    "English Name": "Kaarteeka Puraanam - 18",
+    "Telugu Name": "కార్తీక పురాణం - 18",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV448"
+  },
+  {
+    "Track ID": "DV449",
+    "English Name": "Kaarteeka Puraanam - 19",
+    "Telugu Name": "కార్తీక పురాణం - 19",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV449"
+  },
+  {
+    "Track ID": "DV450",
+    "English Name": "Kaarteeka Puraanam - 20",
+    "Telugu Name": "కార్తీక పురాణం - 20",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV450"
+  },
+  {
+    "Track ID": "DV451",
+    "English Name": "Kaarteeka Puraanam - 21",
+    "Telugu Name": "కార్తీక పురాణం - 21",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV451"
+  },
+  {
+    "Track ID": "DV452",
+    "English Name": "Kaarteeka Puraanam - 22",
+    "Telugu Name": "కార్తీక పురాణం - 22",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV452"
+  },
+  {
+    "Track ID": "DV453",
+    "English Name": "Kaarteeka Puraanam - 23",
+    "Telugu Name": "కార్తీక పురాణం - 23",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV453"
+  },
+  {
+    "Track ID": "DV454",
+    "English Name": "Kaarteeka Puraanam - 24",
+    "Telugu Name": "కార్తీక పురాణం - 24",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV454"
+  },
+  {
+    "Track ID": "DV455",
+    "English Name": "Kaarteeka Puraanam - 25",
+    "Telugu Name": "కార్తీక పురాణం - 25",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV455"
+  },
+  {
+    "Track ID": "DV456",
+    "English Name": "Kaarteeka Puraanam - 26",
+    "Telugu Name": "కార్తీక పురాణం - 26",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV456"
+  },
+  {
+    "Track ID": "DV457",
+    "English Name": "Kaarteeka Puraanam - 27",
+    "Telugu Name": "కార్తీక పురాణం - 27",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV457"
+  },
+  {
+    "Track ID": "DV458",
+    "English Name": "Kaarteeka Puraanam - 28",
+    "Telugu Name": "కార్తీక పురాణం - 28",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV458"
+  },
+  {
+    "Track ID": "DV459",
+    "English Name": "Kaarteeka Puraanam - 29",
+    "Telugu Name": "కార్తీక పురాణం - 29",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV459"
+  },
+  {
+    "Track ID": "DV460",
+    "English Name": "Kaarteeka Puraanam - 30",
+    "Telugu Name": "కార్తీక పురాణం - 30",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV460"
+  },
+  {
+    "Track ID": "DV461",
+    "English Name": "Bhakti Yogam - 1",
+    "Telugu Name": "భక్తి యోగం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV461"
+  },
+  {
+    "Track ID": "DV462",
+    "English Name": "Bhakti Yogam - 2",
+    "Telugu Name": "భక్తి యోగం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV462"
+  },
+  {
+    "Track ID": "DV463",
+    "English Name": "Bhakti Yogam - 3",
+    "Telugu Name": "భక్తి యోగం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV463"
+  },
+  {
+    "Track ID": "DV464",
+    "English Name": "Samarthata Lekapote",
+    "Telugu Name": "సమర్థత లేకపోతే",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV464"
+  },
+  {
+    "Track ID": "DV465",
+    "English Name": "Abhyaasamaa Dhyaanamaa ?",
+    "Telugu Name": "అభ్యాసమా ధ్యానమా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV465"
+  },
+  {
+    "Track ID": "DV466",
+    "English Name": "Manavataa Viluvalu",
+    "Telugu Name": "మానవతా విలువలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV466"
+  },
+  {
+    "Track ID": "DV467",
+    "English Name": "Yogi ante yevaru !",
+    "Telugu Name": "యోగి అంటే ఎవరు !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV467"
+  },
+  {
+    "Track ID": "DV468",
+    "English Name": "Bhayamenduku ?",
+    "Telugu Name": "భయమెందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV468"
+  },
+  {
+    "Track ID": "DV469",
+    "English Name": "Bhagavantuniki Istulevaru ?",
+    "Telugu Name": "భగవంతునికి ఇష్టులెవరు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV469"
+  },
+  {
+    "Track ID": "DV470",
+    "English Name": "Harshadweshaalu Pramodamaa Pramaadamaa ?",
+    "Telugu Name": "హర్షద్వేషాలు ప్రమోదమా ప్రమాదమా ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV470"
+  },
+  {
+    "Track ID": "DV471",
+    "English Name": "Maanaavamaanamulu Yela Bharinchaali !",
+    "Telugu Name": "మానావమానములు ఎలా భరించాలి !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV471"
+  },
+  {
+    "Track ID": "DV472",
+    "English Name": "Nindaa Stutulanu Yelaa Sveekarinchaali !",
+    "Telugu Name": "నిందా స్తుతులను ఎలా స్వీకరించాలి !",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV472"
+  },
+  {
+    "Track ID": "DV473",
+    "English Name": "Kshetramante ?",
+    "Telugu Name": "క్షేత్రమంటే ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV473"
+  },
+  {
+    "Track ID": "DV474",
+    "English Name": "Manchi Manishi Lakshanaalu",
+    "Telugu Name": "మంచి మనిషి లక్షణాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV474"
+  },
+  {
+    "Track ID": "DV475",
+    "English Name": "Prakruti - Purusha Visesham",
+    "Telugu Name": "ప్రకృతి - పురుష విశేషం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV475"
+  },
+  {
+    "Track ID": "DV476",
+    "English Name": "Bhagavantudini yelaa choodaali ?",
+    "Telugu Name": "భగవంతుడిని ఎలా చూడాలి ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV476"
+  },
+  {
+    "Track ID": "DV477",
+    "English Name": "Devudu choostu voorukuntaadem ?",
+    "Telugu Name": "దేవుడు చూస్తూ ఊరుకుంటాడేం ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV477"
+  },
+  {
+    "Track ID": "DV478",
+    "English Name": "Paramaatma Siddhi - Gunatrayam 1",
+    "Telugu Name": "పరమాత్మ సిద్ధి - గుణత్రయం 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV478"
+  },
+  {
+    "Track ID": "DV479",
+    "English Name": "Paramaatma Siddhi - Gunatrayam 2",
+    "Telugu Name": "పరమాత్మ సిద్ధి - గుణత్రయం 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV479"
+  },
+  {
+    "Track ID": "DV480",
+    "English Name": "Satwa Guna Lakshanam",
+    "Telugu Name": "సత్వ గుణ లక్షణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV480"
+  },
+  {
+    "Track ID": "DV481",
+    "English Name": "Rajo Gunamu Valana Yemi Pramaadamu ?",
+    "Telugu Name": "రజో గుణము వలన ఏమి ప్రమాదము ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV481"
+  },
+  {
+    "Track ID": "DV482",
+    "English Name": "Tamo Guna Tatwam",
+    "Telugu Name": "తమో గుణ తత్వం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV482"
+  },
+  {
+    "Track ID": "DV483",
+    "English Name": "Trigunamula Phalitamulu",
+    "Telugu Name": "త్రిగుణముల ఫలితములు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV483"
+  },
+  {
+    "Track ID": "DV484",
+    "English Name": "Gunaateerudu Ante ?",
+    "Telugu Name": "గుణాతీతుడు అంటే ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV484"
+  },
+  {
+    "Track ID": "DV485",
+    "English Name": "Purushottama Praapti - 1",
+    "Telugu Name": "పురుషోత్తమ ప్రాప్తి - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV485"
+  },
+  {
+    "Track ID": "DV486",
+    "English Name": "Mokshamu pondite yekkada untaaru ?",
+    "Telugu Name": "మోక్షము పొందితే ఎక్కడ ఉంటారు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV486"
+  },
+  {
+    "Track ID": "DV487",
+    "English Name": "Aahaara Niyamamenduku ?",
+    "Telugu Name": "ఆహార నియమమెందుకు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV487"
+  },
+  {
+    "Track ID": "DV488",
+    "English Name": "Vedantudu evaru ?",
+    "Telugu Name": "వేదాంతుడు ఎవరు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV488"
+  },
+  {
+    "Track ID": "DV489",
+    "English Name": "Daivaasura Parichayam",
+    "Telugu Name": "దైవాసుర పరిచయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV489"
+  },
+  {
+    "Track ID": "DV490",
+    "English Name": "Maanavatvamuto Divyatvam Vaipunaku 1",
+    "Telugu Name": "మానవత్వముతో దివ్యత్వం వైపునకు 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV490"
+  },
+  {
+    "Track ID": "DV491",
+    "English Name": "Maanavatvamuto Divyatvam Vaipunaku 2",
+    "Telugu Name": "మానవత్వముతో దివ్యత్వం వైపునకు 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV491"
+  },
+  {
+    "Track ID": "DV492",
+    "English Name": "Maanavatvamuto Divyatvam Vaipunaku 3",
+    "Telugu Name": "మానవత్వముతో దివ్యత్వం వైపునకు 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV492"
+  },
+  {
+    "Track ID": "DV493",
+    "English Name": "Maanavatvamuto Raakshasatvam Vaipunaku 1",
+    "Telugu Name": "మానవత్వముతో రాక్షసత్వం వైపునకు 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV493"
+  },
+  {
+    "Track ID": "DV494",
+    "English Name": "Maanavatvamuto Raakshasatvam Vaipunaku 3",
+    "Telugu Name": "మానవత్వముతో రాక్షసత్వం వైపునకు 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV494"
+  },
+  {
+    "Track ID": "DV495",
+    "English Name": "Aasuree Svabhaavi Prayaanametu ?",
+    "Telugu Name": "ఆసురీ స్వభావి ప్రయాణమెటు ?",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV495"
+  },
+  {
+    "Track ID": "DV496",
+    "English Name": "Aasuree Svabhaavaalu",
+    "Telugu Name": "ఆసురీ స్వభావాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV496"
+  },
+  {
+    "Track ID": "DV497",
+    "English Name": "Shodasa Samskaaraalu",
+    "Telugu Name": "షోడశ సంస్కారాలు",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV497"
+  },
+  {
+    "Track ID": "DV498",
+    "English Name": "Shodasa Samskaaraalu - Aavaahanam",
+    "Telugu Name": "షోడశ సంస్కారాలు - ఆవాహనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV498"
+  },
+  {
+    "Track ID": "DV499",
+    "English Name": "Shodasa Upacaaraalu - Aasanam",
+    "Telugu Name": "షోడశ ఉపచారాలు - ఆసనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV499"
+  },
+  {
+    "Track ID": "DV500",
+    "English Name": "Shodasa Upacaaraalu - Paadyam",
+    "Telugu Name": "షోడశ ఉపచారాలు - పాద్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV500"
+  },
+  {
+    "Track ID": "DV501",
+    "English Name": "Bhogi",
+    "Telugu Name": "భోగి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV501"
+  },
+  {
+    "Track ID": "DV502",
+    "English Name": "Sankranti",
+    "Telugu Name": "సంక్రాంతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV502"
+  },
+  {
+    "Track ID": "DV503",
+    "English Name": "Kanuma",
+    "Telugu Name": "కనుమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV503"
+  },
+  {
+    "Track ID": "DV504",
+    "English Name": "Shodasa Upacaaraalu - Arghyam, Aacamanam",
+    "Telugu Name": "షోడశ ఉపచారాలు - అర్ఘ్యం, ఆచమనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV504"
+  },
+  {
+    "Track ID": "DV505",
+    "English Name": "Shodasa Upacaaraalu - Snaanam",
+    "Telugu Name": "షోడశ ఉపచారాలు - స్నానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV505"
+  },
+  {
+    "Track ID": "DV506",
+    "English Name": "Shodasa Upacaaraalu - Vastram",
+    "Telugu Name": "షోడశ ఉపచారాలు - వస్త్రం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV506"
+  },
+  {
+    "Track ID": "DV507",
+    "English Name": "Shodasa Upacaaraalu - Yajnyopaveetam",
+    "Telugu Name": "షోడశ ఉపచారాలు - యజ్ఞోపవీతం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV507"
+  },
+  {
+    "Track ID": "DV508",
+    "English Name": "Shodasa Upacaaraalu - Aabharanam",
+    "Telugu Name": "షోడశ ఉపచారాలు - ఆభరణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV508"
+  },
+  {
+    "Track ID": "DV509",
+    "English Name": "Shodasa Upacaaraalu - Gandham",
+    "Telugu Name": "షోడశ ఉపచారాలు - గంధం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV509"
+  },
+  {
+    "Track ID": "DV510",
+    "English Name": "Shodasa Upacaaraalu - Pushpam",
+    "Telugu Name": "షోడశ ఉపచారాలు - పుష్పం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV510"
+  },
+  {
+    "Track ID": "DV511",
+    "English Name": "Shodasa Upacaaraalu - Dhoopam",
+    "Telugu Name": "షోడశ ఉపచారాలు - ధూపం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV511"
+  },
+  {
+    "Track ID": "DV512",
+    "English Name": "Shodasa Upacaaraalu - Deepam",
+    "Telugu Name": "షోడశ ఉపచారాలు - దీపం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV512"
+  },
+  {
+    "Track ID": "DV513",
+    "English Name": "Shodasa Upacaaraalu - Naivedyam",
+    "Telugu Name": "షోడశ ఉపచారాలు - నైవేద్యం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV513"
+  },
+  {
+    "Track ID": "DV514",
+    "English Name": "Shodasa Upacaaraalu - Taamboolam",
+    "Telugu Name": "షోడశ ఉపచారాలు - తాంబూలం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV514"
+  },
+  {
+    "Track ID": "DV515",
+    "English Name": "Shodasa Upacaaraalu - Neeraajanam",
+    "Telugu Name": "షోడశ ఉపచారాలు - నీరాజనం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV515"
+  },
+  {
+    "Track ID": "DV516",
+    "English Name": "Shodasa Upacaaraalu - Mantrapushpam",
+    "Telugu Name": "షోడశ ఉపచారాలు - మంత్రపుష్పం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV516"
+  },
+  {
+    "Track ID": "DV517",
+    "English Name": "Kaalamahima",
+    "Telugu Name": "కాలమహిమ",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV517"
+  },
+  {
+    "Track ID": "DV518",
+    "English Name": "Snaana Visishtata",
+    "Telugu Name": "స్నాన విశిష్టత",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV518"
+  },
+  {
+    "Track ID": "DV519",
+    "English Name": "Kshamaagunam",
+    "Telugu Name": "క్షమాగుణం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV519"
+  },
+  {
+    "Track ID": "DV520",
+    "English Name": "Maagha Puraanam - 1",
+    "Telugu Name": "మాఘ పురాణం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV520"
+  },
+  {
+    "Track ID": "DV521",
+    "English Name": "Maagha Puraanam - 2",
+    "Telugu Name": "మాఘ పురాణం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV521"
+  },
+  {
+    "Track ID": "DV522",
+    "English Name": "Maagha Puraanam - 3",
+    "Telugu Name": "మాఘ పురాణం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV522"
+  },
+  {
+    "Track ID": "DV523",
+    "English Name": "Maagha Puraanam - 4",
+    "Telugu Name": "మాఘ పురాణం - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV523"
+  },
+  {
+    "Track ID": "DV524",
+    "English Name": "Maagha Puraanam - 5",
+    "Telugu Name": "మాఘ పురాణం - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV524"
+  },
+  {
+    "Track ID": "DV525",
+    "English Name": "Maagha Puraanam - 6",
+    "Telugu Name": "మాఘ పురాణం - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV525"
+  },
+  {
+    "Track ID": "DV526",
+    "English Name": "Ratha Saptami",
+    "Telugu Name": "రథసప్తమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV526"
+  },
+  {
+    "Track ID": "DV527",
+    "English Name": "Bheeshmaastami",
+    "Telugu Name": "భీష్మాష్టమి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV527"
+  },
+  {
+    "Track ID": "DV528",
+    "English Name": "Maagha Puraanam - 9",
+    "Telugu Name": "మాఘ పురాణం - 9",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV528"
+  },
+  {
+    "Track ID": "DV529",
+    "English Name": "Maagha Puraanam - 10",
+    "Telugu Name": "మాఘ పురాణం - 10",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV529"
+  },
+  {
+    "Track ID": "DV530",
+    "English Name": "Maagha Puraanam - 11",
+    "Telugu Name": "మాఘ పురాణం - 11",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV530"
+  },
+  {
+    "Track ID": "DV531",
+    "English Name": "Maagha Puraanam - 12",
+    "Telugu Name": "మాఘ పురాణం - 12",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV531"
+  },
+  {
+    "Track ID": "DV532",
+    "English Name": "Maagha Puraanam - 13",
+    "Telugu Name": "మాఘ పురాణం - 13",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV532"
+  },
+  {
+    "Track ID": "DV533",
+    "English Name": "Maagha Puraanam - 14",
+    "Telugu Name": "మాఘ పురాణం - 14",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV533"
+  },
+  {
+    "Track ID": "DV534",
+    "English Name": "Maagha Puraanam - 15",
+    "Telugu Name": "మాఘ పురాణం - 15",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV534"
+  },
+  {
+    "Track ID": "DV535",
+    "English Name": "Maagha Puraanam - 16",
+    "Telugu Name": "మాఘ పురాణం - 16",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV535"
+  },
+  {
+    "Track ID": "DV536",
+    "English Name": "Maagha Puraanam - 17",
+    "Telugu Name": "మాఘ పురాణం - 17",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV536"
+  },
+  {
+    "Track ID": "DV537",
+    "English Name": "Maagha Puraanam - 18",
+    "Telugu Name": "మాఘ పురాణం - 18",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV537"
+  },
+  {
+    "Track ID": "DV538",
+    "English Name": "Maagha Puraanam - 19",
+    "Telugu Name": "మాఘ పురాణం - 19",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV538"
+  },
+  {
+    "Track ID": "DV539",
+    "English Name": "Maagha Puraanam - 20",
+    "Telugu Name": "మాఘ పురాణం - 20",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV539"
+  },
+  {
+    "Track ID": "DV540",
+    "English Name": "Maagha Puraanam - 21",
+    "Telugu Name": "మాఘ పురాణం - 21",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV540"
+  },
+  {
+    "Track ID": "DV541",
+    "English Name": "Maagha Puraanam - 22",
+    "Telugu Name": "మాఘ పురాణం - 22",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV541"
+  },
+  {
+    "Track ID": "DV542",
+    "English Name": "Maagha Puraanam - 23",
+    "Telugu Name": "మాఘ పురాణం - 23",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV542"
+  },
+  {
+    "Track ID": "DV543",
+    "English Name": "Maagha Puraanam - 24",
+    "Telugu Name": "మాఘ పురాణం - 24",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV543"
+  },
+  {
+    "Track ID": "DV544",
+    "English Name": "Maagha Puraanam - 25",
+    "Telugu Name": "మాఘ పురాణం - 25",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV544"
+  },
+  {
+    "Track ID": "DV545",
+    "English Name": "Maagha Puraanam - 26",
+    "Telugu Name": "మాఘ పురాణం - 26",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV545"
+  },
+  {
+    "Track ID": "DV546",
+    "English Name": "Maagha Puraanam - 27",
+    "Telugu Name": "మాఘ పురాణం - 27",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV546"
+  },
+  {
+    "Track ID": "DV547",
+    "English Name": "Maagha Puraanam - 28",
+    "Telugu Name": "మాఘ పురాణం - 28",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV547"
+  },
+  {
+    "Track ID": "DV548",
+    "English Name": "Maagha Puraanam - Phalasruthi",
+    "Telugu Name": "మాఘ పురాణం - ఫలశృతి",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV548"
+  },
+  {
+    "Track ID": "DV549",
+    "English Name": "Eeshana Trayam",
+    "Telugu Name": "ఈషణ త్రయం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV549"
+  },
+  {
+    "Track ID": "DV550",
+    "English Name": "Saagara Mathanam Antaraartham - 1",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 1",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV550"
+  },
+  {
+    "Track ID": "DV551",
+    "English Name": "Saagara Mathanam Antaraartham - 2",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 2",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV551"
+  },
+  {
+    "Track ID": "DV552",
+    "English Name": "Saagara Mathanam Antaraartham - 3",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 3",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV552"
+  },
+  {
+    "Track ID": "DV553",
+    "English Name": "Saagara Mathanam Antaraartham - 4",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 4",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV553"
+  },
+  {
+    "Track ID": "DV554",
+    "English Name": "Saagara Mathanam Antaraartham - 5",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 5",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV554"
+  },
+  {
+    "Track ID": "DV555",
+    "English Name": "Saagara Mathanam Antaraartham - 6",
+    "Telugu Name": "సాగర మథనం అంతరార్థం - 6",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV555"
+  },
+  {
+    "Track ID": "DV556",
+    "English Name": "Namaskaara Vidhaanam",
+    "Telugu Name": "నమస్కార విధానం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV556"
+  },
+  {
+    "Track ID": "DV557",
+    "English Name": "Dandam",
+    "Telugu Name": "దండం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV557"
+  },
+  {
+    "Track ID": "DV558",
+    "English Name": "Abhivaadam",
+    "Telugu Name": "అభివాదం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV558"
+  },
+  {
+    "Track ID": "DV559",
+    "English Name": "Pranipaatam",
+    "Telugu Name": "ప్రణిపాతం",
+    "URL": "https://raw.githubusercontent.com/kcdt-web/dharma-vaani/main/tracks/DV559"
+  }
+]
